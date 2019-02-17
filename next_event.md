@@ -1,6 +1,8 @@
 ---
 layout: page
-title: "Next Event autofill"
+title: "Next Event March 30"
 permalink: /next/
 ---
+
+Details TBD!
 
