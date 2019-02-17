@@ -1,1 +1,24 @@
-theme: jekyll-theme-cayman
+title: Romancing the Stones
+description: >-
+  Proxy Vintage series in Austin, TX. Heavy on beer.
+baseurl: ""
+url: "https://stonesmtg.com"
+timezone: America/Chicago
+
+# Fix this when they fix the channel url
+#youtube_username: Romancing the Stones
+twitter_username: StonesVintage
+#email: rts@stonesmtg.com
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+exclude:
+  - .gitignore
+  - .bundle
+  - Gemfile
+  - Gemfile.lock
+  - vendor
