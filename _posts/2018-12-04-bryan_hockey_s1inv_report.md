@@ -5,7 +5,12 @@ excerpt: "By the time the eighth and final qualifier event of the 2018 Romancing
 categories: Vintage TournamentReport RTSi
 ---
 
-By the time the eighth and final qualifier event of the 2018 Romancing the Stones season came around, I was already frothing in anticipation for the invitational. A disappointing double X-4 finish during Eternal Weekend had left me looking for a win with a little prestige. I’d hoped that it would come during [RTS8](https://lonestarlhurgoyfs.com/2018-11-19-17-November-2018-Results/), but to no avail. That left the invitational. The posting on lonestarlhurgoyfs.com said it all: the winner would receive “a year’s worth of bragging rights."*
+By the time the eighth and final qualifier event of the 2018 Romancing the Stones season came
+around, I was already frothing in anticipation for the invitational. A disappointing double X-4
+finish during Eternal Weekend had left me looking for a win with a little prestige. I’d hoped that
+it would come during [RTS8](s1q8_results),
+but to no avail. That left the invitational. The posting on lonestarlhurgoyfs.com said it all:
+the winner would receive “a year’s worth of bragging rights."*
 
 
 # Preparation
