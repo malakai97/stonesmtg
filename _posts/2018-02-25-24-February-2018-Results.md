@@ -1,0 +1,58 @@
+---
+layout: post
+title:  "24 February 2018 Proxy Vintage at Austin Beer Works [17 Players]"
+excerpt: "17 players competed in Vintage at Austin Beer Works today. Check out the results!"
+date:   2018-02-26 21:00:00 -0500
+categories: Vintage Results RomancingTheStones AustinBeerWorks
+---
+
+[Link to annoucement post](http://themanadrain.com/topic/1750/2-24-18-austin-tx-100-proxy-vintage-austin-beerworks)
+
+[Discuss this post on The Mana Drain](http://themanadrain.com/topic/1776/24-february-2018-romancing-the-stones-pt-2-17-players)
+
+1. Patrick Vincent - [Paradoxical Mentor](/assets/images/2018-02-24/deck-1.jpg)
+2. Stuart Ziarnik - [Bragain Storm](/assets/images/2018-02-24/deck-2.jpg)
+3. Brian Tweedy - [Inferno Oath](/assets/images/2018-02-24/deck-3.jpg)
+4. Sam Katz - [Paradoxical Mentor](/assets/images/2018-02-24/deck-4.jpg)
+5. Johnny Angulo - [UR Delver](/assets/images/2018-02-24/deck-5.jpg)
+6. Chris Huckabee - [Punishing Oath](/assets/images/2018-02-24/deck-6.jpg)
+7. David Mallett - [Team Leovold](/assets/images/2018-02-24/deck-7.jpg)
+8. Ian Files - [RUG Walkers](/assets/images/2018-02-24/deck-8.jpg)
+9. Jack Belingrath - [Bargain Storm](/assets/images/2018-02-24/deck-9.jpg)
+10. Rob Connolly - [Moon Stompy](/assets/images/2018-02-24/deck-10.jpg)
+11. TJ Boyd - [Blue Stew](/assets/images/2018-02-24/deck-11.jpg)
+12. Ian Jefferies - [Tezzeret Workshop Combo Insanity](/assets/images/2018-02-24/deck-12.jpg)
+13. Jacob Zernick - [5C Humans](/assets/images/2018-02-24/deck-13.jpg)
+14. Woodrow Bogucki - [Paradoxical Storm](/assets/images/2018-02-24/deck-14.jpg)
+15. Matt Bock - [Grixis Thieves](/assets/images/2018-02-24/deck-15.jpg)
+16. Alex Tune - [5C Humans](/assets/images/2018-02-24/deck-16.jpg)
+17. Joel Peabody - [Welder Shenanigans](/assets/images/2018-02-24/deck-17.jpg)
+
+Pics:
+
+![](/assets/images/2018-02-24/1.jpg)
+
+Stu tries to find his way through double Thalia
+![](/assets/images/2018-02-24/2.jpg)
+
+A less outcome-y Paradox
+![](/assets/images/2018-02-24/3.jpg)
+
+Woodrow, seconds before discovering that the Paradoxical deck he was borrowing didn't have outs to hatebears:
+![](/assets/images/2018-02-24/4.jpg)
+![](/assets/images/2018-02-24/5.jpg)
+
+Stu attempts to math
+![](/assets/images/2018-02-24/6.jpg)
+![](/assets/images/2018-02-24/7.jpg)
+![](/assets/images/2018-02-24/8.jpg)
+![](/assets/images/2018-02-24/9.jpg)
+
+Everyone signed a Brainstorm
+![](/assets/images/2018-02-24/10.jpg)
+
+Our top 4
+![](/assets/images/2018-02-24/11.jpg)
+
+And our Winner!
+![](/assets/images/2018-02-24/12.jpg)
