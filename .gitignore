@@ -3,3 +3,6 @@ vendor/bundle
 _site
 .sass-cache
 .jekyll-metadata
+todo
+toto.md
+todo.txt
