@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Bryan Hockey - Romancing the Stones Invitational Tournament Report: 1st with Paradoxical"
+title: "Bryan Hockey - RTS Season 1 Invitational Report: 1st"
 excerpt: "By the time the eighth and final qualifier event of the 2018 Romancing the Stones season came around, I was already frothing in anticipation for the invitational."
-date: 2018-12-04 09:15:00 -600
 categories: Vintage TournamentReport RTSi
-redirect_from: "/2018-12-04-Brian-Hockey-RTSi-Tournament-Report/"
 ---
 
 By the time the eighth and final qualifier event of the 2018 Romancing the Stones season came around, I was already frothing in anticipation for the invitational. A disappointing double X-4 finish during Eternal Weekend had left me looking for a win with a little prestige. I’d hoped that it would come during [RTS8](https://lonestarlhurgoyfs.com/2018-11-19-17-November-2018-Results/), but to no avail. That left the invitational. The posting on lonestarlhurgoyfs.com said it all: the winner would receive “a year’s worth of bragging rights."*
@@ -12,29 +10,35 @@ By the time the eighth and final qualifier event of the 2018 Romancing the Stone
 
 # Preparation
 
-The invitational format offers the most knowable metagame of any tournament. The rosters are small, and the players’ complete deck selection history is typically available. This shifts the focus from the tight play that is necessary to win at big events towards optimal deck and card selection. By choosing correctly, one can [nuke their opponents from orbit](https://www.youtube.com/watch?v=aCbfMkh940Q) before the first round even starts.
+The invitational format offers the most knowable metagame of any tournament. The rosters are small,
+and the players’ complete deck selection history is typically available. This shifts the focus from
+the tight play that is necessary to win at big events towards optimal deck and card selection. By
+choosing correctly, one can nuke their opponents from orbit before the first round even starts.
 
-The first step was putting each person on a deck. I think we had two weeks with the full roster in place. I have never been less effective at work. I knew I was safe to put Tweedy on Xerox and Jeff on Survival. From there I quickly decided nobody would play Dredge, comfortable in the knowledge that Paradoxical can just beat Dredge anyway, especially if they’re not playing the pitch version. I also put Shane on Ritual storm, as he had played that at every preceding event.
+The first step was putting each person on a deck. I think we had two weeks with the full roster in
+place. I have never been less effective at work. I knew I was safe to put Tweedy on Xerox and Jeff
+on Survival. From there I quickly decided nobody would play Dredge, comfortable in the knowledge
+that Paradoxical can just beat Dredge anyway, especially if they’re not playing the pitch version.
+I also put Shane on Ritual storm, as he had played that at every preceding event.
 
-
-That still left me with four players who might reasonably field zero to four Shops decks, two or more Survival decks, at most one White Eldrazi, or another Paradoxical list that would tow close to [Coval’s streamlined, Eternal Weekend winning list](http://www.tcdecks.net/deck.php?id=28940&iddeck=239598). 
+That still left me with four players who might reasonably field zero to four Shops decks, two or more Survival decks, at most one White Eldrazi, or another Paradoxical list that would tow close to [Coval’s streamlined, Eternal Weekend winning list](http://www.tcdecks.net/deck.php?id=28940&iddeck=239598).
 
 I brewed a lot. Paradoxical, like most blue decks in the format, has a dozen optional slots that can dramatically change how the deck performs in various matchups. Vintage Blue’s set of powerful tutors allows a single card to fundamentally change a matchup. Note I speak here of Vintage’s true Blue decks—those that play Demonic Tutor and Yawgmoth’s Win — as those foregoing the black splash are now — and have always been — fish decks.
 
 At some point I expected four Survival decks, which led to such hits as maindeck Massacre with both Vamp and Mystical to find it, as well as purchasing more than one copy of [Glare of Heresy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373691). Dreams of exiling Stony Silence or Thalia as needed had me fantasizing about being made fun of for popularizing a new Vintage all-star white sorcery in a sort of Rube-Goldberg power fantasy.  There was a 75 with double Dread of Night, as well as one with 14 lands in the main. I’m not proud.
 
-Most builds were not so ambitious, and they mostly settled around the right configuration of anti-hate (Repeal, Hurkyl’s Recall, Balance, Fragmentize), Tinker, Vault+Key, and the Night’s Whisper slots. For the latter, I settled on one Whisper, one Merchant Scroll, and the maindeck Remora. The Remora came only after I chose to cheat on sideboard space against what I expected to be a single Xerox deck by playing neither Karn nor Defense Grid. Four Remoras, Traps, and Flusterstorms would give me byes against Shane — who I expected to be on ritual storm — and Pat, while still being very live (less traps) against Xerox. This opened up a lot of sideboard space that eventually got filled with three Hurkyl’s because, like Survival, there was a chance of as many as four Shops decks. I did not want to feel like a fool to show up unprepared for a deck that several players own in real cardboard. 
+Most builds were not so ambitious, and they mostly settled around the right configuration of anti-hate (Repeal, Hurkyl’s Recall, Balance, Fragmentize), Tinker, Vault+Key, and the Night’s Whisper slots. For the latter, I settled on one Whisper, one Merchant Scroll, and the maindeck Remora. The Remora came only after I chose to cheat on sideboard space against what I expected to be a single Xerox deck by playing neither Karn nor Defense Grid. Four Remoras, Traps, and Flusterstorms would give me byes against Shane — who I expected to be on ritual storm — and Pat, while still being very live (less traps) against Xerox. This opened up a lot of sideboard space that eventually got filled with three Hurkyl’s because, like Survival, there was a chance of as many as four Shops decks. I did not want to feel like a fool to show up unprepared for a deck that several players own in real cardboard.
 
 I did all of this in three days. It took me another week to decide that Vault+Key was terrible. That still left four days of masturbatory goldfishing with the final 75. When wrist pain showed up on the third day, I wondered if my teenage self could have done better.
 
 Then the reveal stream came. I was right about Tweedy, Stu, Pat, and Jeff. Aren on White Eldrazi was a surprise but it’s still fundamentally the same matchup as Survival. Shane had audibled to Moon Stompy; that made my Remoras far less enticing but still worked in my favor, as Moon Stompy doesn’t have much of a chance against Paradoxical.
-But Ben Kendrick was playing Xerox. Paradoxical’s worst matchup. The matchup I had cheated on both maindeck and sideboard. [Doom](https://www.youtube.com/watch?v=DMSHvgaUWc8).
+But Ben Kendrick was playing Xerox. Paradoxical’s worst matchup. The matchup I had cheated on both maindeck and sideboard. Doom.
 
 I spent the last day or so before the event predicting how my opponents would board, and writing down my own plans on a sheet of paper. Vintage has too many 1-ofs for me to be able to board proficiently on the spot. I always end up forgetting about some of the swaps I wanted to make.
 
 # The tournament
 
-I’ll skip the typical description of travel and the venue. It suffices to say that there were bloody Marys waiting for us. There was also a bottle of something called Malort, which I’m told “is horrible” and “tastes like varnish”. Half the bottle would be gone before day-end. 
+I’ll skip the typical description of travel and the venue. It suffices to say that there were bloody Marys waiting for us. There was also a bottle of something called Malort, which I’m told “is horrible” and “tastes like varnish”. Half the bottle would be gone before day-end.
 
 We randomly choose pods and opponents, and sit down to play.
 
@@ -80,14 +84,14 @@ Underground Sea, Time Walk, Island, Fragmentize, Ancestral Recall, Mind’s Desi
 
 This hand is solid for grinding, as even if he missteps my recall I’ve got land drops and an answer for Stony Silence.
 
-Tweedy goes to six, and our first turns are uneventful. I cast a few cantrips and use my Time Walk as an explore. At some point, he casts a Dack Fayden, and I cast my Recall in response. He missteps, and I Force the misstep, drawing three. Dack resolves. I’ve not played out any artifacts to steal, so the Dack draws cards. We spend a few turns like this, but Tweedy can’t seem to find Red mana. One of his activations sees him discarding double Pyroblast. 
+Tweedy goes to six, and our first turns are uneventful. I cast a few cantrips and use my Time Walk as an explore. At some point, he casts a Dack Fayden, and I cast my Recall in response. He missteps, and I Force the misstep, drawing three. Dack resolves. I’ve not played out any artifacts to steal, so the Dack draws cards. We spend a few turns like this, but Tweedy can’t seem to find Red mana. One of his activations sees him discarding double Pyroblast.
 
 At some point, he makes Stony Silence hellbent and I still have the Fragmentize in hand, so it gets destroyed. Later, during the finals, you can hear Tweedy complaining about this on the coverage.  I Demonic Tutor for Yawgmoth’s Win and pass the turn. He draws and passes. My draw for the turn is the Lotus I shuffled away when I cast the tutor. This is the best possible draw. I cast the Yawgmoth’s Will, which he has some sort of counter for but I have Force and Fluster to protect it. I don’t end up needing the Flusterstorm, and—in the face of 5+ colored mana and a graveyard with both Recall and Time Walk—he concedes.
 
 ## Round 3 vs Jeff Lubinski on Survival
 
 When I sit down, Jeff is talking about the possibility of me missing top 4 on breakers if he beats me, as he’s 1-1. This is an artifact of our decision to split into pods of four and round-robin instead of a traditional three rounds of Swiss. Everyone makes a mental note to pick a better structure next year. I resolve to crush him, because at this point I am running hot and I feel invincible.
- 
+
 My notes for this match are sparse.
 
 ### Game 1 on the draw
@@ -142,9 +146,9 @@ The format of the finals was best of five, with the first two games being played
 
 Preordain, Preordain, Force of Will, Brainstorm, Top, Mana Crypt, Mox Opal
 
-I lead off by playing out the artifacts and casting Preordain with the Opal. This doesn’t find much, so I spin Top and pass. 
+I lead off by playing out the artifacts and casting Preordain with the Opal. This doesn’t find much, so I spin Top and pass.
 
-Jeff has a Thalia off of Tropical and Pearl, which I Force. 
+Jeff has a Thalia off of Tropical and Pearl, which I Force.
 
 I untap and cast Brainstorm. After resolving it, I have an Underground Sea, a Mana Vault, Lotus, and Paradoxical. I draw five cards including Vampiric Tutor, Demonic Tutor, and a Timetwister I desperately don’t want to cast. At this point the puzzle is just in how to make enough Black mana to win the game. I cast the Vampiric Tutor, with the plan of going and getting Yawgmoth’s Will, but while I’m searching I realize that I can win deterministically by using my floating Blue mana and Repeal to convert the Blue mana into a Black mana, so I just grab Mox Jet. The Vampiric into Jet ended up being a mistake, and I should have just grabbed Tendrils there so that the Demonic wasn’t necessary.
 
@@ -154,7 +158,7 @@ Force of Will, Misty Rainforest, Tinker, Repeal, Mana Vault, Snapcaster Mage
 
 I drew a seven card hand that I’d happily keep against Xerox, but it was ultimately too fair against Jeff’s plan for stopping me. I go to six. With the hand I get, my entire plan is to resolve Tinker on two, and Force of Will his Gilded Drake. I double check his decklist to ensure that the only has the one answer.
 
-Jeff plays a fetchland and passes. It turns out he had Ancestral Recall, which he should have just cast as it wouldn’t have overdrawn him on the mulligan. On my turn, I play a fetch and crack it, Jeff responds by grabbing a Tropical Island and casting his Recall. This doesn’t directly interrupt my plan, so I let it resolve. 
+Jeff plays a fetchland and passes. It turns out he had Ancestral Recall, which he should have just cast as it wouldn’t have overdrawn him on the mulligan. On my turn, I play a fetch and crack it, Jeff responds by grabbing a Tropical Island and casting his Recall. This doesn’t directly interrupt my plan, so I let it resolve.
 
 Jeff has a second land drop and a Sapphire, and passes. This is incredibly strange to me. It’s clear that the rest of his hand is just land and guys, and that he was all-in on the Recall. Imagine my surprise when I cast Tinker, and Jeff responds with Spell Queller. This directly interrupts my plan.
 
@@ -207,7 +211,7 @@ Shane doesn’t have a taxing effect like Thalia, so I'm not interested in color
 
 | In | Out |
 | - | - |
-| 3 Mystic Remora | 1 Hurkyl's Recall | 
+| 3 Mystic Remora | 1 Hurkyl's Recall |
 | 2 Mindbreak Trap | 1 Tinker |
 | 3 Flusterstorm | 1 Sphinx of the Steel Wind |
 | | 1 Timetwister |
@@ -215,7 +219,7 @@ Shane doesn’t have a taxing effect like Thalia, so I'm not interested in color
 | | 1 Vampiric Tutor |
 | | 2 Force of Will |
 
-I board out Tinker because it’s too slow, Balance because it’s dead against everything except Mentor, and Timetwister because I'll probably lose if I cast it. I'm  just looking to grind, so Vampiric and Force of Will can be shaved. I’m bringing in five counterspells and four Remoras, so I’m not worried about being light on Force.  
+I board out Tinker because it’s too slow, Balance because it’s dead against everything except Mentor, and Timetwister because I'll probably lose if I cast it. I'm  just looking to grind, so Vampiric and Force of Will can be shaved. I’m bringing in five counterspells and four Remoras, so I’m not worried about being light on Force.
 
 ## Vs Ben on Xerox
 

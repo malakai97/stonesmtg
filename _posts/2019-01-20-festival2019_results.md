@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "20 January 2019 Old School at Barracuda [28 Players]"
+title:  "Festival of Friendship 2019 Old School at Barracuda [28 Players]"
 excerpt: "On Sunday, we hosted the inaugural Festival of Friendship: a non-proxy, charity Old School tournament celebrating old cards, booze, and, of course, friendship."
-date:   2019-01-21 22:00:00 -0500
 categories: OldSchool Results Barracuda
 ---
 
