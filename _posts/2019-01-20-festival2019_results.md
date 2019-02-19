@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Festival of Friendship 2019 Old School at Barracuda [28 Players]"
-excerpt: "On Sunday, we hosted the inaugural Festival of Friendship: a non-proxy, charity Old School tournament celebrating old cards, booze, and, of course, friendship."
+excerpt: "On Sunday, we hosted the inaugural Festival of Friendship: a non-proxy, charity Old
+School tournament celebrating old cards, booze, and, of course, friendship."
 categories: OldSchool Results Barracuda
 ---
 
@@ -9,20 +10,30 @@ categories: OldSchool Results Barracuda
 /assets/images/2019-01-20/
 /assets/images/2019-01-20/
 
-On Sunday, we hosted the inaugural Festival of Friendship: a non-proxy, charity Old School tournament celebrating old cards, booze, and, of course, friendship. We weren’t sure how it would go, as all the Romancing The Stones events have been 100% proxy. However, when the doors of Barracuda opened at 11:00, we had 28 players ready to sling some power and do shots of Malort. Everyone’s $20 entry went towards Austin Pets Alive (Austin’s biggest no-kill animal shelter), and got them breakfast tacos, stickers, and a Sage of Lat Nam. In addition, we were delighted with a surprise Erhnamgeddon cake courtesy of Mark Brothers!
+On Sunday, we hosted the inaugural Festival of Friendship: a non-proxy, charity Old School
+tournament celebrating old cards, booze, and, of course, friendship. We weren’t sure how it would
+go, as all the Romancing The Stones events have been 100% proxy. However, when the doors of
+Barracuda opened at 11:00, we had 28 players ready to sling some power and do shots of Malort.
+Everyone’s $20 entry went towards Austin Pets Alive (Austin’s biggest no-kill animal shelter),
+and got them breakfast tacos, stickers, and a Sage of Lat Nam. In addition, we were delighted with
+a surprise Erhnamgeddon cake courtesy of Mark Brothers!
 
 ![](/assets/images/2019-01-20/jpg)
 ![](/assets/images/2019-01-20/2.jpg)
 ![](/assets/images/2019-01-20/3.jpg)
 
-After our customary 5 rounds of Swiss, our Top 4 was Patrick Vincent, Brian Tweedy, Rob Connolly, and Winston Wood. They battled it out, and Patrick Vincent and his Trolls emerged victorious to take home the oversized Chaos Orb!
+After our customary 5 rounds of Swiss, our Top 4 was Patrick Vincent, Brian Tweedy, Rob Connolly,
+and Winston Wood. They battled it out, and Patrick Vincent and his Trolls emerged victorious to
+take home the oversized Chaos Orb!
 ![](/assets/images/2019-01-20/4.jpg)
 ![](/assets/images/2019-01-20/5.jpg)
 
 ![](/assets/images/2019-01-20/standings_jpg)
 ![](/assets/images/2019-01-/standings_2.jpg)
 
-We were thrilled with the entire event, and can’t thank players enough for making the drive locally, from San Antonio, and from Houston! After such a successful outing, we’ve decided this will not be the last you see of the Festival of Friendship . . .
+We were thrilled with the entire event, and can’t thank players enough for making the drive
+locally, from San Antonio, and from Houston! After such a successful outing, we’ve decided this
+will not be the last you see of the Festival of Friendship . . .
 
 # Pics
 
