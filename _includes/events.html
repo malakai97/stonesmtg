@@ -1,9 +1,0 @@
-{% for event in site.data.events | sort: 'date' %}
-  <ul>
-  {% if event.link != nil %}
-    <li> <a href="{{ event.link }}"> {{ event.date | date_to_string | append: " " | append: event.name }} </a></li>
-  {% else %}
-    <li> {{ event.date | append: " " | append: event.name }}</li>
-  {% endif %}
-  </ul>
-{% endfor %}
