@@ -25,3 +25,24 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+
+# I've been overcomplicating this.
+# Just put an announcement in _announcements
+# Then put the results in _results
+# Pros:
+# * super simple
+# * things are where they need to be
+# Con:
+# * The results need to link to the announcement, which we can do
+#   automatically with a template.
+# * If we fail to create a results page, the event just disappears
+#   because we don't display announcements in the past.  We could
+#   just always make a symlink in results to the announcement, and
+#   then replace that with a real file when the time comes.
+collections:
+  results:
+    permalink: /:collection/:title
+    output: true
+  announcements:
+    permalink: /announce/:title
+    output: true
