@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Stu Ziarnik - SCGCon Power 9 Series Tournament Report: 9th with White Eldrazi"
+cover: /assets/images/default_event_cover.jpg
 excerpt: "I was one of the 124 Vintage players who battled in the Power 9 Series this year. Any
 large paper Vintage event is special, but this one was particularly important to me; this fall
 I’m turning 30 and having my first kid."

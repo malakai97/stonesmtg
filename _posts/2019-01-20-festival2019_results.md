@@ -1,14 +1,11 @@
 ---
 layout: post
 title:  "Festival of Friendship 2019 Old School at Barracuda [28 Players]"
+cover: /assets/images/2019-01-20/4.jpg
 excerpt: "On Sunday, we hosted the inaugural Festival of Friendship: a non-proxy, charity Old
 School tournament celebrating old cards, booze, and, of course, friendship."
 categories: OldSchool Results Barracuda
 ---
-
-/assets/images/2019-01-20/
-/assets/images/2019-01-20/
-/assets/images/2019-01-20/
 
 On Sunday, we hosted the inaugural Festival of Friendship: a non-proxy, charity Old School
 tournament celebrating old cards, booze, and, of course, friendship. We weren’t sure how it would
@@ -18,7 +15,7 @@ Everyone’s $20 entry went towards Austin Pets Alive (Austin’s biggest no-kil
 and got them breakfast tacos, stickers, and a Sage of Lat Nam. In addition, we were delighted with
 a surprise Erhnamgeddon cake courtesy of Mark Brothers!
 
-![](/assets/images/2019-01-20/jpg)
+![](/assets/images/2019-01-20/1.jpg)
 ![](/assets/images/2019-01-20/2.jpg)
 ![](/assets/images/2019-01-20/3.jpg)
 

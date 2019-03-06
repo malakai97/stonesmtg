@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "RTS Season 1 Invitational"
+cover: /assets/images/extra/2.jpg
 excerpt: "8 Victorious Vintage Players will congregate in Austin on Dec 1 to determine who is best.
 Join us for the stream Saturday Morning!"
 categories: Vintage Barracuda

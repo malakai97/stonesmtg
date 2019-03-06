@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Bryan Hockey - RTS Season 1 Invitational Report: 1st"
+cover: /assets/images/extra/queen.jpg
 excerpt: "By the time the eighth and final qualifier event of the 2018 Romancing the Stones season
 came around, I was already frothing in anticipation for the invitational."
 categories: Vintage TournamentReport RTSi
