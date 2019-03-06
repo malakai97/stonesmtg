@@ -12,6 +12,7 @@ cover: /assets/images/banner_1.jpg
       {% for post in site.posts reversed %}
         {% assign post_date = post.date | date: '%s' %}
         {% if post_date >= current_date %}
+          {% assign has_future_events = true %}
           <a href="{{ post.url | prepend: site.baseurl }}">
             {% if post.cover %}
               <div class="event-sqaure" style="background-image:url({{post.cover}});">
@@ -24,6 +25,9 @@ cover: /assets/images/banner_1.jpg
           </a>
         {% endif %}
       {% endfor %}
+      {% unless has_future_events %}
+        <h2>There are no upcoming events just yet. Stay tuned!</h2>
+      {% endunless %}
     </div>
 
     <div class="clearfix">
