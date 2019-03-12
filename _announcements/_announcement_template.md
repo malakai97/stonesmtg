@@ -1,10 +1,10 @@
 ---
 layout: post
-title: RTS Season X Qualifier Y
-cover: /assets/images/year/month/day/cover.jpg
+title: RTS Season X Qualifier #Y
+cover: /assets/images/YYYY-MM-DD/cover.jpg
 ---
 
-![](/assets/images/year/month/day/poster.jpg)
+![](/assets/images/YYYY-MM-DD/poster.jpg)
 
 * **Location**: [Venue Name](https://linktovenue.com/) - Address here
 * **Entry Fee**: $10
