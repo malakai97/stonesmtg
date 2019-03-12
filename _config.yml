@@ -42,8 +42,8 @@ exclude:
 #   then replace that with a real file when the time comes.
 collections:
   results:
-    permalink: /:collection/:title
+    permalink: /results/:year-:month-:day
     output: true
   announcements:
-    permalink: /announce/:title
+    permalink: /announce/:year-:month-:day
     output: true
