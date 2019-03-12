@@ -7,6 +7,7 @@ cover: /assets/images/banner_1.jpg
 
     {% capture current_date %}{{'now' | date: '%s' }}{% endcapture %}
 
+
     <div class="clearfix">
       <h1 class="event-time-heading fix-top">Upcoming Events</h1>
       {% for post in site.announcements %}
@@ -29,7 +30,26 @@ cover: /assets/images/banner_1.jpg
         <h2>There are no upcoming events just yet. Stay tuned!</h2>
       {% endunless %}
     </div>
-
+    <br>
+    <div class="clearfix">
+      <h1 class="event-time-heading">Recent Articles</h1>
+      {% for post in site.articles %}
+      <a href="{{ post.url | prepend: site.baseurl }}">
+        {% if post.cover %}
+          <div class="event-sqaure" style="background-image:url({{post.cover}});">
+            <h2>{{ post.title }} <span>{{ post.date | date: "%b %-d, %Y" }}</span></h2>
+            <div class='event-square-overlay'></div>
+          </div>
+        {% else %}
+          <div class="event-sqaure" style="background-image:url(/assets/images/default_event_cover.jpg);">
+            <h2>{{ post.title }} <span>{{ post.date | date: "%b %-d, %Y" }}</span></h2>
+            <div class='event-square-overlay'></div>
+          </div>
+        {% endif %}
+      </a>
+      {% endfor %}
+    </div>
+    <br>
     <div class="clearfix">
       <h1 class="event-time-heading">Past Events</h1>
       {% for post in site.results reversed %}

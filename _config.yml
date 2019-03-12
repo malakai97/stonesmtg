@@ -47,3 +47,6 @@ collections:
   announcements:
     permalink: /announce/:year-:month-:day
     output: true
+  articles:
+    permalink: /article/:title
+    output: true
