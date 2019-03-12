@@ -5,14 +5,10 @@ cover: /assets/images/banner_1.jpg
 
 <div class="home">
 
-    {% capture current_date %}{{'now' | date: '%s' }}{% endcapture %}
-
-
     <div class="clearfix">
       <h1 class="event-time-heading fix-top">Upcoming Events</h1>
       {% for post in site.announcements %}
-        {% assign post_date = post.date | date: '%s' %}
-        {% if post_date >= current_date %}
+        {% if post.date >= site.time %}
           {% assign has_future_events = true %}
           <a href="{{ post.url | prepend: site.baseurl }}">
             {% if post.cover %}
@@ -30,7 +26,9 @@ cover: /assets/images/banner_1.jpg
         <h2>There are no upcoming events just yet. Stay tuned!</h2>
       {% endunless %}
     </div>
+
     <br>
+
     <div class="clearfix">
       <h1 class="event-time-heading">Recent Articles</h1>
       {% assign articles = site.articles | reverse | slice: 0, 3 %}
@@ -50,12 +48,13 @@ cover: /assets/images/banner_1.jpg
       </a>
       {% endfor %}
     </div>
+
     <br>
+
     <div class="clearfix">
       <h1 class="event-time-heading">Past Events</h1>
       {% for post in site.results reversed %}
-        {% assign post_date = post.date | date: '%s' %}
-        {% if post_date < current_date %}
+        {% if post.date < site.time %}
           <a href="{{ post.url | prepend: site.baseurl }}">
             {% if post.cover %}
               <div class="event-sqaure" style="background-image:url({{post.cover}});">
