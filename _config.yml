@@ -4,6 +4,7 @@ description: >-
 baseurl: ""
 url: "https://stonesmtg.com"
 timezone: America/Chicago
+future: true
 
 # Fix this when they fix the channel url
 #youtube_username: Romancing the Stones

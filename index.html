@@ -8,8 +8,8 @@ cover: /assets/images/banner_1.jpg
     {% capture current_date %}{{'now' | date: '%s' }}{% endcapture %}
 
     <div class="clearfix">
-      <h1 class="event-time-heading fix-top">Future Events</h1>
-      {% for post in site.posts reversed %}
+      <h1 class="event-time-heading fix-top">Upcoming Events</h1>
+      {% for post in site.announcements %}
         {% assign post_date = post.date | date: '%s' %}
         {% if post_date >= current_date %}
           {% assign has_future_events = true %}
@@ -32,7 +32,7 @@ cover: /assets/images/banner_1.jpg
 
     <div class="clearfix">
       <h1 class="event-time-heading">Past Events</h1>
-      {% for post in site.posts %}
+      {% for post in site.results %}
         {% assign post_date = post.date | date: '%s' %}
         {% if post_date < current_date %}
           <a href="{{ post.url | prepend: site.baseurl }}">
