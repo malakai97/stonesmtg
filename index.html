@@ -5,26 +5,25 @@ cover: /assets/images/banner_1.jpg
 
 <div class="home">
 
+  {% assign default_event_cover = '/assets/images/default_event_cover.jpg' %}
+
     <div class="clearfix">
       <h1 class="event-time-heading fix-top">Upcoming Events</h1>
-      {% for post in site.announcements %}
-        {% if post.date >= site.time %}
-          {% assign has_future_events = true %}
-          <a href="{{ post.url | prepend: site.baseurl }}">
-            {% if post.cover %}
-              <div class="event-sqaure" style="background-image:url({{post.cover}});">
-            {% else %}
-              <div class="event-sqaure" style="background-image:url(/assets/images/default_event_cover.jpg);">
-            {% endif %}
-              <h2>{{ post.title }} <span>{{ post.date | date: "%b %-d, %Y" }}</span></h2>
-              <div class='event-square-overlay'></div>
-            </div>
-          </a>
-        {% endif %}
-      {% endfor %}
-      {% unless has_future_events %}
+      {% assign announcements = site.announcements | where_exp: "a", "a.date >= site.time" %}
+
+      {% if announcements.size == 0 %}
         <h2>There are no upcoming events just yet. Stay tuned!</h2>
-      {% endunless %}
+      {% endif %}
+
+      {% for post in announcements %}
+        <a href="{{ post.url | prepend: site.baseurl }}">
+          <div class="event-sqaure"
+            style="background-image:url({{post.cover | default: default_event_cover}});">
+            <h2>{{ post.title }} <span>{{ post.date | date: "%b %-d, %Y" }}</span></h2>
+            <div class='event-square-overlay'></div>
+          </div>
+        </a>
+      {% endfor %}
     </div>
 
     <br>
@@ -33,19 +32,13 @@ cover: /assets/images/banner_1.jpg
       <h1 class="event-time-heading">Recent Articles</h1>
       {% assign articles = site.articles | reverse | slice: 0, 3 %}
       {% for post in articles %}
-      <a href="{{ post.url | prepend: site.baseurl }}">
-        {% if post.cover %}
-          <div class="event-sqaure" style="background-image:url({{post.cover}});">
+        <a href="{{ post.url | prepend: site.baseurl }}">
+          <div class="event-sqaure"
+            style="background-image:url({{post.cover | default: default_event_cover}});">
             <h2>{{ post.title }} <span>{{ post.date | date: "%b %-d, %Y" }}</span></h2>
             <div class='event-square-overlay'></div>
           </div>
-        {% else %}
-          <div class="event-sqaure" style="background-image:url(/assets/images/default_event_cover.jpg);">
-            <h2>{{ post.title }} <span>{{ post.date | date: "%b %-d, %Y" }}</span></h2>
-            <div class='event-square-overlay'></div>
-          </div>
-        {% endif %}
-      </a>
+        </a>
       {% endfor %}
     </div>
 
@@ -54,18 +47,13 @@ cover: /assets/images/banner_1.jpg
     <div class="clearfix">
       <h1 class="event-time-heading">Past Events</h1>
       {% for post in site.results reversed %}
-        {% if post.date < site.time %}
-          <a href="{{ post.url | prepend: site.baseurl }}">
-            {% if post.cover %}
-              <div class="event-sqaure" style="background-image:url({{post.cover}});">
-            {% else %}
-              <div class="event-sqaure" style="background-image:url(/assets/images/default_event_cover.jpg);">
-            {% endif %}
-              <h2>{{ post.title }} <span>{{ post.date | date: "%b %-d, %Y" }}</span></h2>
-              <div class='event-square-overlay'></div>
-            </div>
-          </a>
-        {% endif %}
+        <a href="{{ post.url | prepend: site.baseurl }}">
+          <div class="event-sqaure"
+            style="background-image:url({{post.cover | default: default_event_cover}});">
+            <h2>{{ post.title }} <span>{{ post.date | date: "%b %-d, %Y" }}</span></h2>
+            <div class='event-square-overlay'></div>
+          </div>
+        </a>
       {% endfor %}
     </div>
 
