@@ -33,7 +33,8 @@ cover: /assets/images/banner_1.jpg
     <br>
     <div class="clearfix">
       <h1 class="event-time-heading">Recent Articles</h1>
-      {% for post in site.articles reversed %}
+      {% assign articles = site.articles | reverse | slice: 0, 3 %}
+      {% for post in articles %}
       <a href="{{ post.url | prepend: site.baseurl }}">
         {% if post.cover %}
           <div class="event-sqaure" style="background-image:url({{post.cover}});">
