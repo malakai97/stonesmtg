@@ -16,8 +16,14 @@
       <div class="trigger">
         {%- assign pages = site.header_pages | default: site.pages -%}
         {%- for p in pages -%}
-            <a class="page-link" href="{{ p.url | relative_url }}">{{ p.title | escape }}</a>
+          <a class="page-link" href="{{ p.url | relative_url }}">{{ p.title | escape }}</a>
         {%- endfor -%}
+
+        {%- assign next_event = site.announcements | where_exp: "a", "a.date >= site.time" | first -%}
+        <a class="page-link" href="{{ next_event.url | default: site.url | relative_url }}">
+          Next Event {{ next_event.date | date: '%B %e' | default: "TBD" | escape }}
+        </a>
+
       </div>
     </nav>
 
