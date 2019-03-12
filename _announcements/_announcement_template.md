@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RTS Season X Qualifier #Y
+title: "RTS Season X Qualifier #Y"
 cover: /assets/images/YYYY-MM-DD/cover.jpg
 ---
 
