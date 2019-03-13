@@ -22,7 +22,7 @@ is also already invited, 3rd and 4th place will face off for the invite.
 # Roster
 
 The following players have secured their chance to battle to become the Romancing the Stones
-season 2 champion.
+season 2 champion. The event will be held at the end of 2019.
 
 1. Bryan Hockey - Season 1 / 2018 Champion
 2. Jake Baltz - [2nd place](/results/2018-02-02)
