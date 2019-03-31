@@ -25,8 +25,8 @@ The following players have secured their chance to battle to become the Romancin
 season 2 champion. The event will be held at the end of 2019.
 
 1. Bryan Hockey - Season 1 / 2018 Champion
-2. Jake Baltz - [2nd place](/results/2018-02-02)
-3. tbd
+2. Jake Baltz - [2nd place](/results/2019-02-02)
+3. Patrick Vincent - [1st place](/results/2019-03-30)
 4. tbd
 5. tbd
 6. tbd
