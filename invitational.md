@@ -28,7 +28,7 @@ season 2 champion. The event will be held at the end of 2019, in early December.
 2. Jake Baltz - 2nd place at [Qualifier #1](/results/2019-02-02)
 3. Patrick Vincent - 1st place at [Qualifier #2](/results/2019-03-30)
 4. Joseph Amaya - 2nd place at [Qualifier #3](/results/2019-05-04)
-5. Nick Lee - 2nd place at [Qualifier #3](/results/2019-06-08)
+5. Nick Lee - 2nd place at [Qualifier #4](/results/2019-06-08)
 6. tbd
 7. tbd
 8. tbd
