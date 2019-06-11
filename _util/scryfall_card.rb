@@ -15,8 +15,12 @@ class ScryfallCard
 
   attr_reader :name
 
+  def set
+    "mh1" # Modern Horizons
+  end
+
   def json
-    `curl -s -X GET 'https://api.scryfall.com/cards/named?set=mh1&exact=#{name.url_safe}'`.strip
+    `curl -s -X GET 'https://api.scryfall.com/cards/named?set=#{set}&exact=#{name.url_safe}'`.strip
   end
 
   def card_obj
