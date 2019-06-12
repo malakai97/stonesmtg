@@ -34,3 +34,14 @@ season 2 champion. The event will be held at the end of 2019, in early December.
 8. tbd
 9. tbd
 10. tbd
+
+# Most Top 4 Appearances Leaderboard
+
+*Tied players listed alphabetically*
+
+1. Kai Schafroth - 2
+1. Alex Bosserman - 1
+1. Tim Everett - 1
+1. Peter Gustafson - 1
+1. Ben Whitfield - 1
+1. Stu Ziarnik - 1
