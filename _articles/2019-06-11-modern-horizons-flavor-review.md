@@ -181,7 +181,7 @@ that in the flavor.
 ![](https://img.scryfall.com/cards/small/front/7/0/70edc5da-4477-49f6-bbcc-f208fdaae0d3.jpg?1558435120)
 
 *“What cannot be destroyed will be bound, but do try to destroy it the first time”
-- Rem Karolus, Blade of the Inquisitors*
+--Rem Karolus, Blade of the Inquisitors*
 
 This is just noise, and it doesn't make sense with the card.
 
