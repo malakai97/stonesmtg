@@ -20,7 +20,11 @@ cover: /assets/images/banner_1.jpg
         <a href="{{ post.url | prepend: site.baseurl }}">
           <div class="event-sqaure"
             style="background-image:url({{post.cover | default: default_event_cover}});">
-            <h2>{{ post.title }} <span>{{ post.date | date: "%b %-d, %Y" }}</span></h2>
+            {% if post.display_date %}
+              <h2>{{ post.title }} <span>{{ post.display_date | date: "%b %-d, %Y" }}</span></h2>
+            {% else %}
+              <h2>{{ post.title }} <span>{{ post.date | date: "%b %-d, %Y" }}</span></h2>
+            {% endif %}
             <div class='event-square-overlay'></div>
           </div>
         </a>
