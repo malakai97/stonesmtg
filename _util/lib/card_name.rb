@@ -1,3 +1,4 @@
+# Represents the name of a card
 class CardName
   def initialize(string)
     @name = string
