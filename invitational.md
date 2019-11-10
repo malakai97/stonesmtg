@@ -9,7 +9,7 @@ a year, and ends with the Romancing the Stones Invitational for that season.
 
 # Info
 
-This year's invitational will be held on December 6th, at
+This year's invitational will be held on December 7th, at
 [Barracuda](https://barracudaaustin.com/)
 
 # Invites
