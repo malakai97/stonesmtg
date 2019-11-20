@@ -44,6 +44,7 @@ Stones season 2 champion.
 10. Kai Schafroth - Most top 4 appearances
 
 # Most Top 4 Appearances Leaderboard
+
 *Tied players listed alphabetically*
 
 1. **Kai Schafroth - 3**
