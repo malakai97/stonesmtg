@@ -40,21 +40,21 @@ Stones season 2 champion.
 6. Jack Bellingrath - 1st place at [Qualifier #5](/results/2019-07-20)
 7. Shane Rice - 2nd place at [Qualifier #6](/results/2019-09-07)
 8. Jeff Lubinski - 1st place at [Qualifier #7](/results/2019-10-12)
-9. tbd
-10. tbd
+9. Ethan Klein - 1st place at [Qualifier #8](/results/2019-11-16)
+10. Kai Schafroth - Most top 4 appearances
 
 # Most Top 4 Appearances Leaderboard
-
 *Tied players listed alphabetically*
 
-1. Kai Schafroth - 3
+1. **Kai Schafroth - 3**
+1. Woodrow Bogucki - 2
 1. Alex Bosserman - 1
-1. Alex Zavoluk - 1
-1. Woodrow Bogucki - 1
 1. James Damore - 1
 1. Tim Everett - 1
+1. Ian Files - 1
 1. Nate Golia - 1
 1. Peter Gustafson - 1
 1. Mike O'Malley - 1
 1. Ben Whitfield - 1
+1. Alex Zavoluk - 1
 1. Stu Ziarnik - 1
