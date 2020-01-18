@@ -40,7 +40,7 @@ class TextFile < ProjectFile
       match
         .downcase
         .gsub(" ", "_")
-        .gsub(/(-|–)/, "")
+        .gsub(/(-|–)/, "-")
         .gsub("__", "_")
     end
   end
