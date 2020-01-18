@@ -12,8 +12,19 @@ class ImageFile < ProjectFile
   end
 
   def normalize!
-    File.rename(path, normal_path)
-    ImageFile.new(normal_path)
+    File.rename(path, jpg_path(normal_path))
+    self.class.new(normal_path)
+  end
+
+  private
+
+  # deal with .jpeg
+  def jpg_path(path)
+    Pathname.new(
+      path
+      .to_s
+      .gsub("jpeg", "jpg")
+    )
   end
 end
 
