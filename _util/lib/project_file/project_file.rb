@@ -1,3 +1,5 @@
+require "fileutils"
+
 class ProjectFile
 
   def self.for(target)
@@ -21,6 +23,15 @@ class ProjectFile
 
   def initialize(path)
     @path = path
+  end
+
+  def move(new_path)
+    unless path == new_path
+      puts "#{path} -> #{new_path}"
+      FileUtils.move(path, "#{path}t")
+      FileUtils.move("#{path}t", new_path)
+    end
+    self.class.new(new_path)
   end
 
   private
