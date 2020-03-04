@@ -34,7 +34,7 @@ Stones season 3 champion.
 
 1. Bryan Hockey - Season 2 / 2019 Champion
 2. Woodrow Bogucki - 1st place at [Qualifier #1](/results/2020-01-12)
-3. TBD
+3. Brian Tweedy - 1st place at [Qualifier #2](/results/2020-02-29)
 3. TBD
 4. TBD
 5. TBD
@@ -49,6 +49,7 @@ Stones season 3 champion.
 *Tied players listed alphabetically*
 
 1. Jack Bellingrath - 1
+1. Tony Franklin - 1
+1. Ben Kendrick - 1
 1. Jeff Lubinski - 1
-1. Brian Tweedy - 1
 
