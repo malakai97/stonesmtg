@@ -21,7 +21,8 @@
 
         {%- assign next_event = site.announcements | where_exp: "a", "a.date >= site.time" | first -%}
         <a class="page-link" href="{{ next_event.url | default: site.url | relative_url }}">
-          Next Event {{ next_event.date | date: '%B %e' | default: "TBD" | escape }}
+          <!-- Next Event {{ next_event.date | date: '%B %e' | default: "TBD" | escape }} -->
+          Next Event TBD
         </a>
 
       </div>
