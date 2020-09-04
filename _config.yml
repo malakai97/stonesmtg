@@ -50,3 +50,5 @@ collections:
   articles:
     permalink: /article/:title
     output: true
+  header_pages:
+    output: true
