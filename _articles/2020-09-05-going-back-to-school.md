@@ -93,7 +93,7 @@ to have stuff in the board to beat faster combos. David has Mana Leaks and some
 enchantment hosers. Neat deck.
 ### Survival, by Bryan Hockey and Lorien Elleman
 
-![](/assets/images/2020-07-24/hockeyrector.jpg\)
+![](/assets/images/2020-07-24/hockeyrector.jpg)
 
 ![](/assets/images/2020-07-24/lorienmadness.jpg)
 
