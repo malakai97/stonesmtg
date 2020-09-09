@@ -73,7 +73,8 @@ Hermit, Geddon, Plow Under, and Biorhythm can all end the game on the spot.
 Deranged hermit is likely the best threat in the format (remember: this ain’t
 2020, and creatures suck in this format), and Geddon means your opponent likely
 cannot play any more Magic.
-The Engine:
+
+### The Engine
 
 ![](/assets/images/2020-09-09/symbiote.png)
 ![](/assets/images/2020-09-09/messenger.png)
