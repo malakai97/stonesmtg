@@ -4,6 +4,8 @@ title: In Search of Lost Magic
 cover: /assets/images/ancestral_memories.jpg
 ---
 
+*by Stu Ziarnik*
+
 > But when a belief disappears, there survives it – more and more vigorous so
 > as to mask the absence of the power we have lost to give reality to new things
 > – a fetishistic attachment to the old things which our belief once animated,
