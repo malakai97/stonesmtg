@@ -15,3 +15,4 @@ in Austin, TX, who are fans of eternal formats.  We're a growing community of ca
 competitive players who like to have a good time, jam some games, and have a beer or two.
 (Having a beer is optional).
 
+You can find us on [discord](https://discord.gg/QZnMj5nFu2)
