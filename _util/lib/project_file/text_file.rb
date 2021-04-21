@@ -19,6 +19,8 @@ class TextFile < ProjectFile
 
   private
 
+  # TODO the issue with fold is that it doesn't care about image lines, and thus
+  #   breaks them.
   def folded_content
     `fold -s #{path}`
   end
@@ -28,7 +30,7 @@ class TextFile < ProjectFile
   end
 
   def fixed_content
-    folded_content
+    content
       .lines
       .map{|line| fixed_image_line(line)}
       .join("")
