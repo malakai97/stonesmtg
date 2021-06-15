@@ -18,7 +18,7 @@ in December. The event will be in Austin.
 Season 3's invitational format is TBD. In the past, we've given Invites out for:
 
 * 1 invite to last season's invitational champion
-* Winning a single-day or league event
+* Winning a single-day or league event (other than the Festival of Friendship)
 * 1 invite to the uninvited player with the most top 4 appearances
 
 Players can never earn more than one invitation. Thus, if a player who is already
