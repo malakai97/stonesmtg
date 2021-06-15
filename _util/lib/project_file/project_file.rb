@@ -25,6 +25,10 @@ class ProjectFile
     @path = path
   end
 
+  def normalize!
+    true
+  end
+
   def move(new_path)
     unless path == new_path
       puts "#{path} -> #{new_path}"
