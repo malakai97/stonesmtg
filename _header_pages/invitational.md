@@ -40,7 +40,7 @@ Stones Season 3 champion.
 6. Angelo Kortyka - 1st place at [RTS 20](/results/2021-02-06)
 7. Conor Brown - 2nd place in the [Dance Party MS League](/results/2021-02-22)
 8. Patrick Vincent - 1st place in the [School's Out MS League](/results/2021-04-26)
-9. TBD
+9. Ben Kendrick - 1st place at [RTS 21](/results/2020-06-19)
 10. TBD
 
 # Most Top 4 Appearances Leaderboard
@@ -48,12 +48,13 @@ Stones Season 3 champion.
 *Tied players listed alphabetically*
 
 1. Hayden Bagot - 2
-1. Jack Bellingrath - 1
+1. Jack Bellingrath - 2
 1. Travis Brown - 1
 1. Stephen Bush - 1
 1. Tim Everett - 1
 1. Robert Foflygen - 1
 1. Tony Franklin - 1
+1. Nate Golia - 1
 1. Aaron Kahler - 1
 1. Ben Kendrick - 1
 1. Jeff Lubinski - 1
@@ -61,6 +62,7 @@ Stones Season 3 champion.
 1. Kai Schafroth - 1
 1. Luke Tooker - 1
 1. Andrew Webb - 1
-1. Robert Wilson
+1. Robert Wilson - 1
+1. Ethan Wiggins - 1
 1. Stuart Ziarnik - 1
 
