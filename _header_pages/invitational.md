@@ -58,16 +58,15 @@ Stones Season 3 champion.
 1. Bryan Hockey - Season 2 / 2019 Champion
 2. Woodrow Bogucki - 1st place at [RTS 17](/results/2020-01-12)
 3. Brian Tweedy - 1st place at [RTS 18](/results/2020-02-29)
-3. Rob Connolly - 1st place in the [Summer School MS League](/results/2020-07-24)
-4. Lorien Elleman - 1st place in the [Fall Semester MS League](/results/2020-11-02)
-5. Alex Zavoluk - 1st place at [RTS 19](/results/2020-11-14)
-6. Angelo Kortyka - 1st place at [RTS 20](/results/2021-02-06)
-7. Conor Brown - 2nd place in the [Dance Party MS League](/results/2021-02-22)
-8. Patrick Vincent - 1st place in the [School's Out MS League](/results/2021-04-26)
-9. Ben Kendrick - 1st place at [RTS 21](/results/2020-06-19)
-10. TBD
-11. TBD
-12. TBD
+4. Rob Connolly - 1st place in the [Summer School MS League](/results/2020-07-24)
+5. Lorien Elleman - 1st place in the [Fall Semester MS League](/results/2020-11-02)
+6. Alex Zavoluk - 1st place at [RTS 19](/results/2020-11-14)
+7. Angelo Kortyka - 1st place at [RTS 20](/results/2021-02-06)
+8. Conor Brown - 2nd place in the [Dance Party MS League](/results/2021-02-22)
+9. Patrick Vincent - 1st place in the [School's Out MS League](/results/2021-04-26)
+10. Ben Kendrick - 1st place at [RTS 21](/results/2020-06-19)
+11. Winner of the [Home School MS League](/announcements/2021-08-20)
+12. Winner of the in-person Vintage event, RTS 22. TBD
 
 # Past Champions
 
