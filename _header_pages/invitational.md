@@ -65,7 +65,7 @@ Stones Season 3 champion.
 8. Conor Brown - 2nd place in the [Dance Party MS League](/results/2021-02-22)
 9. Patrick Vincent - 1st place in the [School's Out MS League](/results/2021-04-26)
 10. Ben Kendrick - 1st place at [RTS 21](/results/2020-06-19)
-11. Winner of the [Home School MS League](/announce/2021-08-20)
+11. Andrew Webb - 1st place at [Home School MS League](/results/2021-08-20)
 12. Winner of the in-person Vintage event, RTS 22. TBD
 
 # Past Champions
