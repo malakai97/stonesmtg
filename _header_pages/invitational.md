@@ -61,7 +61,7 @@ Stones Season 3 champion.
 4. Rob Connolly - 1st place in the [Summer School MS League](/results/2020-07-24)
 5. Lorien Elleman - 1st place in the [Fall Semester MS League](/results/2020-11-02)
 6. Alex Zavoluk - 1st place at [RTS 19](/results/2020-11-14)
-7. Angelo Kortyka - 1st place at [RTS 20](/results/2021-02-06)
+7. Tim Everett - 3rd place at [RTS 20](/results/2021-02-06)
 8. Conor Brown - 2nd place in the [Dance Party MS League](/results/2021-02-22)
 9. Patrick Vincent - 1st place in the [School's Out MS League](/results/2021-04-26)
 10. Ben Kendrick - 1st place at [RTS 21](/results/2020-06-19)
