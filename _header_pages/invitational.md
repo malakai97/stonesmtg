@@ -66,7 +66,7 @@ Stones Season 3 champion.
 9. Patrick Vincent - 1st place in the [School's Out MS League](/results/2021-04-26)
 10. Ben Kendrick - 1st place at [RTS 21](/results/2020-06-19)
 11. Andrew Webb - 1st place at [Home School MS League](/results/2021-08-20)
-12. Winner of the in-person Vintage event, RTS 22. TBD
+12. Mike O'Malley - 3rd place at [RTS 22](/results/2021-11-06)
 
 # Past Champions
 
