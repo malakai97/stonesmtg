@@ -8,34 +8,18 @@ Romancing the Stones tournament series are divided into seasons. Each season las
 a year, and ends with the Romancing the Stones Invitational for that season. The winner
 becomes the Romancing the Stones Season Champion, and earns a year of bragging rights.
 
-# Info
+# Event Info for the Season 3 / 2020-2021 Invitational
 
-The 2021 Romancing the Stones Invitational will be held Saturday, December 4th. It will
-be here in Austin, at our very own Brian Tweedy's new club. There will be food and
-beverages provided on-site. In the past, we've overlapped with the bar opening, so do
-bring your wallet.
-
-The time isn't set in stone yet, but tentatively we are aiming for a kickoff between
-10 and 12 CST.
-
-We will have 12 players this Invitational, so we'll be playing 4 rounds of Swiss.
-Rounds 1 & 2 will be Vintage, and rounds 3 & 4 will be Middle School.
-After that we'll cut to top 4, which will be Vintage. Make sure you have decks for
-both formats! And yes, it's 100% proxy.
-
-We will be playing with open decklists. Before the event, Stu will ask everyone to
-submit their lists by 11:59pm Thursday, December 2nd. On Friday, December 3rd, we will
-will share them with everyone here and in discord so that you can study up on your
-opponents.
-
-We want to accommodate our non-Texan players. As such, if you can't be in Austin for the
-tournament, we will have laptops set up so you can play your matches via webcam! If you're
-gonna be out of town, please confirm with us ASAP that you can be available all day on
-December 4th.
-
-We'll have cool prizes, which will be revealed closer to the event.
-
-More details to come!
+* Date: Saturday, December 4th
+* Time: 10:30am arrival, 11:00am start
+* Location: Kinda Tropical (3501 E 7th St., Austin)
+* Format: 3 rounds of Vintage, followed by 3 rounds of Middle School, then a cut
+  to top 4 (Vintage). We will be playing **timed rounds** with open decklists.
+* Food & Drink: Breakfast tacos will be provided, and there will be food and drinks
+  available to order throughout the day (KT is a bar/restaurant!)
+* Pre-tournament To-do: Email written decklists to stuart.ziarnik@gmail.com by EOD
+  Thursday, December 2. On Friday, Stu will share all the lists so you can study up
+  on your opponents.
 
 # Invites
 
