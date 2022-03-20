@@ -42,6 +42,7 @@ Standard banned list). Additionally, the following cards are banned:
 * Marsh Flats, Scalding Tarn, Arid Mesa, Verdant Catacombs, Misty Rainforest
 * (The allied fetchlands are banned by the Pioneer banned list)
 * Mox Diamond
+* Reanimate
 * Serra's Sanctum
 * Show and Tell
 
