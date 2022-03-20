@@ -16,3 +16,9 @@ competitive players who like to have a good time, jam some games, and have a bee
 (Having a beer is optional).
 
 You can find us on [discord](https://discord.gg/QZnMj5nFu2)
+
+### Store
+
+If you enjoyed the online Middle School  league or our paper Vintage series please,
+consider buying something from our
+[store](https://finesoutherngentlemen.com/collections/romancing-the-stones).
