@@ -85,7 +85,6 @@ Core sets from Fifth Edition onward.
 * Portal Three Kingdoms
 * Starter 1999
 * Starter 2000
-* Anthologies
 * Chronicles
 
 ### Middle School Era
@@ -199,4 +198,9 @@ are not included. At time of writing, that list includes:
 * Strixhaven: School of Mages
 * Kaldheim
 * Zendikar Rising
+
+# Changes
+
+* 2022-03-20 Added Reanimate to the banned list
+* 2022-03-21 Removed Anthologies from the list of legal sets
 
