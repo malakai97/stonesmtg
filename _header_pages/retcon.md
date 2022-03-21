@@ -57,7 +57,6 @@ that includes:
 * Food Chain
 * Force of Will
 * Phyrexian Dreadnought
-* Reanimate
 
 ## Pools
 
