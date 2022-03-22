@@ -34,6 +34,7 @@ by changing more slowly.
 The Legacy, Modern, and Pioneer banned lists all apply. (We ignore the
 Standard banned list). Additionally, the following cards are banned:
 
+* Brainstorm
 * Entomb
 * Dark Ritual
 * Gaea's Cradle
@@ -90,7 +91,6 @@ Core sets from Fifth Edition onward.
 ### Middle School Era
 
 Cards from the sets that are after Old School, but before the 8th edition frame.
-This pool uses the Middle School and Legacy banned lists.
 
 * Scourge
 * Legions
