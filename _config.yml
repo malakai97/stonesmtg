@@ -43,13 +43,13 @@ exclude:
 #   then replace that with a real file when the time comes.
 collections:
   results:
-    permalink: /results/:year-:month-:day
+    permalink: /results/:year-:month-:day/
     output: true
   announcements:
-    permalink: /announce/:year-:month-:day
+    permalink: /announce/:year-:month-:day/
     output: true
   articles:
-    permalink: /article/:title
+    permalink: /article/:title/
     output: true
   header_pages:
     output: true
