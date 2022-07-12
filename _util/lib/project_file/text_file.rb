@@ -33,7 +33,12 @@ class TextFile < ProjectFile
     content
       .lines
       .map{|line| fixed_image_line(line)}
+      .map{|line| fixed_pdf_line(line)}
       .join("")
+  end
+
+  def fixed_pdf_line(line)
+    line.gsub(".pdf", ".txt")
   end
 
   def fixed_image_line(line)
