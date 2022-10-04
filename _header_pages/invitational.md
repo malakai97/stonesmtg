@@ -38,6 +38,7 @@ Stones Season 3 champion.
 3. Kai Schafroth - 1st place at [RTS 23](/results/2022-03-26)
 4. Luke Tooker - 2nd place in the [School's Out 2022 MS League](/results/2022-04-15)
 5. Woodrow Bogucki - 1st place at [RTS 24](/results/2022-07-09)
+6. Gregg Graham - 1st place in the [Summer School 2022 MS League](/results/2022-08-12)
 
 # Past Champions
 
