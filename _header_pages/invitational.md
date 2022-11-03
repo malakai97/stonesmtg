@@ -33,12 +33,16 @@ The following players have secured their chance to battle to become the Romancin
 Stones Season 3 champion.
 
 1. Andrew Webb - Season 3 / 2021 Champion
-2. Mike Klements - 2nd place (Phil, the 1st place finisher, passed on the invite) in
+2. Mike Klements - 2nd place (1st passed on the invite) in
    the [Dance Party 2020 MS League](/results/2022-02-06)
 3. Kai Schafroth - 1st place at [RTS 23](/results/2022-03-26)
 4. Luke Tooker - 2nd place in the [School's Out 2022 MS League](/results/2022-04-15)
 5. Woodrow Bogucki - 1st place at [RTS 24](/results/2022-07-09)
-6. Gregg Graham - 1st place in the [Summer School 2022 MS League](/results/2022-08-12)
+6. Miguel Garcia - 3rd place (1st and 2nd passed) in the [Summer School 2022 MS League](/results/2022-08-12)
+7. Satish Subramanian - 1st place [Houston Hurricane Weekend](/results/2022-09-17)
+8. [Fall Semester]
+9. RTS 26 #1
+10. RTS 26 #2
 
 # Past Champions
 
