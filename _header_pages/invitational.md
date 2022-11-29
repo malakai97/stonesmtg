@@ -40,7 +40,8 @@ Stones Season 3 champion.
 5. Woodrow Bogucki - 1st place at [RTS 24](/results/2022-07-09)
 6. Miguel Garcia - 3rd place (1st and 2nd passed) in the [Summer School 2022 MS League](/results/2022-08-12)
 7. Satish Subramanian - 1st place [Houston Hurricane Weekend](/results/2022-09-17)
-8. Fall Semester Middle School League winner
+8. Mike O'Malley - Special invite for perfect attendance, as none of the top finishers
+   of the Fall Semester league could attend (or already had an invite).
 9. Bryan Hockey - 1st place at RTS 26
 10. Brian Tweedy - 2nd place at RTS 26
 
