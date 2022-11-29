@@ -10,22 +10,13 @@ becomes the Romancing the Stones Season Champion, and earns a year of bragging r
 
 # Event Info for the Season 4 Invitational
 
-* Date: Early December
-* Location: Austin
-* Format: Likely a split of Vintage and Middle School with open decklists.
+* Date: Saturay, December 3rd
+* Location: Tweedy's (2908 Fruth Street) in Austin, TX
+* Format: Timed Swiss rounds consisting of 3 rounds of vintage and 3 rounds of middle school,
+  followed by a cut to top 4 which will be vintage.
 
-# Invites
-
-Invites to the players who will qualify for the season 3 / 2020-2021 Invitational
-are given out for:
-
-* 1 invite to last season's invitational champion
-* Winning a single-day or league event (other than the Festival of Friendship)
-
-Players can never earn more than one invitation. Thus, if a player who is already
-invited places 1st at an event, the invitation for that event would go to the 2nd place
-finisher. If that player is also already invited, 3rd and 4th place will face off for
-the invite.
+Our very own Rob Connelly will be livestreaming the whole event on our Twitch channel.
+Thanks Rob!
 
 # Roster
 
@@ -44,6 +35,19 @@ Stones Season 3 champion.
    of the Fall Semester league could attend (or already had an invite).
 9. Bryan Hockey - 1st place at RTS 26
 10. Brian Tweedy - 2nd place at RTS 26
+
+# Invites
+
+Invites to the players who will qualify for the season 3 / 2020-2021 Invitational
+are given out for:
+
+* 1 invite to last season's invitational champion
+* Winning a single-day or league event (other than the Festival of Friendship)
+
+Players can never earn more than one invitation. Thus, if a player who is already
+invited places 1st at an event, the invitation for that event would go to the 2nd place
+finisher. If that player is also already invited, 3rd and 4th place will face off for
+the invite.
 
 # Past Champions
 
