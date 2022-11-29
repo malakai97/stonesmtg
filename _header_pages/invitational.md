@@ -15,7 +15,8 @@ becomes the Romancing the Stones Season Champion, and earns a year of bragging r
 * Format: Timed Swiss rounds consisting of 3 rounds of vintage and 3 rounds of middle school,
   followed by a cut to top 4 which will be vintage.
 
-Our very own Rob Connelly will be livestreaming the whole event on our Twitch channel.
+Reminder that this is **not an open event**. However, the bar opens to the public at noon.
+Even better, our very own Rob Connelly will be livestreaming the whole event on our Twitch channel!
 Thanks Rob!
 
 # Roster
