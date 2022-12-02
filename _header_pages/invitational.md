@@ -14,6 +14,7 @@ becomes the Romancing the Stones Season Champion, and earns a year of bragging r
 * Location: Tweedy's (2908 Fruth Street) in Austin, TX
 * Format: Timed Swiss rounds consisting of 3 rounds of vintage and 3 rounds of middle school,
   followed by a cut to top 4 which will be vintage.
+* Decklists: Competitors submit their decks in advance, and we play with open lists.
 
 Reminder that this is **not an open event**. However, the bar opens to the public at noon.
 Even better, our very own Rob Connelly will be livestreaming the whole event on our Twitch channel!
@@ -31,8 +32,9 @@ Stones Season 3 champion.
 4. Luke Tooker - 2nd place in the [School's Out 2022 MS League](/results/2022-04-15)
 5. Woodrow Bogucki - 1st place at [RTS 24](/results/2022-07-09)
 6. Miguel Garcia - 3rd place (1st and 2nd passed) in the [Summer School 2022 MS League](/results/2022-08-12)
-7. Satish Subramanian - 1st place [Houston Hurricane Weekend](/results/2022-09-17)
-8. Mike O'Malley - Special invite for perfect attendance, as none of the top finishers
+7. Mike O'Malley - 2nd place [Houston Hurricane Weekend](/results/2022-09-17)
+8. Patrick Vincent - Special invite for an incredible number of top 8s,
+   as none of the top finishers
    of the Fall Semester league could attend (or already had an invite).
 9. Bryan Hockey - 1st place at RTS 26
 10. Brian Tweedy - 2nd place at RTS 26
