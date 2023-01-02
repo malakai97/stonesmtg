@@ -12,9 +12,15 @@ class TextFile < ProjectFile
   end
 
   def normalize!
+    puts "Normalizing #{path} as text file"
     File.write(normal_path, fixed_content)
+    `fold -s #{normal_path} > #{normal_path}.folded`
+    File.delete(normal_path)
+    File.rename("#{normal_path}.folded", normal_path)
     File.delete(path) unless path == normal_path
     TextFile.new(normal_path)
+  rescue
+    File.write(path, content)
   end
 
   private
