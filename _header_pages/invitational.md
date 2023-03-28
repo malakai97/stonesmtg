@@ -8,40 +8,32 @@ Romancing the Stones tournament series are divided into seasons. Each season las
 a year, and ends with the Romancing the Stones Invitational for that season. The winner
 becomes the Romancing the Stones Season Champion, and earns a year of bragging rights.
 
-# Event Info for the Season 4 Invitational
+# Event Info for the Season 5 Invitational
 
-* Date: Saturay, December 3rd
-* Location: Tweedy's (2908 Fruth Street) in Austin, TX
-* Format: Timed Swiss rounds consisting of 3 rounds of vintage and 3 rounds of middle school,
-  followed by a cut to top 4 which will be vintage.
+* Date: Early December
+* Location: Austin, TX
+* Format: Timed Swiss rounds consisting of a mix of vintage and middle school.
 * Decklists: Competitors submit their decks in advance, and we play with open lists.
-
-Reminder that this is **not an open event**. However, the bar opens to the public at noon.
-Even better, our very own Rob Connelly will be livestreaming the whole event on our Twitch channel!
-Thanks Rob!
 
 # Roster
 
 The following players have secured their chance to battle to become the Romancing the
-Stones Season 3 champion.
+Stones Season 5 champion.
 
-1. Andrew Webb - Season 3 / 2021 Champion
-2. Mike Klements - 2nd place (1st passed on the invite) in
-   the [Dance Party 2020 MS League](/results/2022-02-06)
-3. Kai Schafroth - 1st place at [RTS 23](/results/2022-03-26)
-4. Luke Tooker - 2nd place in the [School's Out 2022 MS League](/results/2022-04-15)
-5. Woodrow Bogucki - 1st place at [RTS 24](/results/2022-07-09)
-6. Miguel Garcia - 3rd place (1st and 2nd passed) in the [Summer School 2022 MS League](/results/2022-08-12)
-7. Mike O'Malley - 2nd place [Houston Hurricane Weekend](/results/2022-09-17)
-8. Patrick Vincent - Special invite for an incredible number of top 8s,
-   as none of the top finishers
-   of the Fall Semester league could attend (or already had an invite).
-9. Bryan Hockey - 1st place at RTS 26
-10. Brian Tweedy - 2nd place at RTS 26
+1. Bryan Hockey - Season 4 / 2022 Champion
+2. Robin Mannas - 1st place at RTS 27
+3. Patrick Vincent - 2nd place at RTS 28
+4. --
+4. --
+4. --
+4. --
+4. --
+4. --
+4. --
 
 # Invites
 
-Invites to the players who will qualify for the season 3 / 2020-2021 Invitational
+Invites to the players who will qualify for the season 5 / 2023 Invitational
 are given out for:
 
 * 1 invite to last season's invitational champion
@@ -57,3 +49,4 @@ the invite.
 * 2018 Invitational Champion - Bryan Hockey
 * 2019 Invitational Champion - Bryan Hockey
 * 2021 Invitational Champion - Andrew Webb
+* 2022 Invitational Champion - Bryan Hockey
