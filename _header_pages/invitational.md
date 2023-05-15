@@ -21,6 +21,7 @@ The following players have secured their chance to battle to become the Romancin
 Stones Season 5 champion.
 
 1. Bryan Hockey - Season 4 / 2022 Champion
+1. Andrew Webb - 1st place at Dance Party 2023
 2. Robin Mannas - 1st place at RTS 27
 3. Patrick Vincent - 2nd place at RTS 28
 4. --
