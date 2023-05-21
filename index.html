@@ -34,6 +34,21 @@ cover: /assets/images/banner_1.jpg
     <br>
 
     <div class="clearfix">
+      <h1 class="event-time-heading">Past Events</h1>
+      {% for post in site.results reversed %}
+        <a href="{{ post.url | prepend: site.baseurl }}">
+          <div class="event-sqaure"
+            style="background-image:url({{post.cover | default: default_event_cover}});">
+            <h2>{{ post.title }} <span>{{ post.date | date: "%b %-d, %Y" }}</span></h2>
+            <div class='event-square-overlay'></div>
+          </div>
+        </a>
+      {% endfor %}
+    </div>
+
+    <br>
+
+    <div class="clearfix">
       <h1 class="event-time-heading">Recent Articles</h1>
       {% assign articles = site.articles | reverse | slice: 0, 3 %}
       {% for post in articles %}
@@ -48,19 +63,6 @@ cover: /assets/images/banner_1.jpg
       <a href="{{ 'articles' | prepend: site.baseurl }}">More Articles</a>
     </div>
 
-    <br>
 
-    <div class="clearfix">
-      <h1 class="event-time-heading">Past Events</h1>
-      {% for post in site.results reversed %}
-        <a href="{{ post.url | prepend: site.baseurl }}">
-          <div class="event-sqaure"
-            style="background-image:url({{post.cover | default: default_event_cover}});">
-            <h2>{{ post.title }} <span>{{ post.date | date: "%b %-d, %Y" }}</span></h2>
-            <div class='event-square-overlay'></div>
-          </div>
-        </a>
-      {% endfor %}
-    </div>
 
 </div>
