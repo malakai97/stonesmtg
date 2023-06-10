@@ -12,7 +12,7 @@ around, I was already frothing in anticipation for the invitational. A disappoin
 finish during Eternal Weekend had left me looking for a win with a little prestige. I’d hoped that
 it would come during [RTS8](/results/2018-11-17),
 but to no avail. That left the invitational. The posting on lonestarlhurgoyfs.com said it all:
-the winner would receive “a year’s worth of bragging rights."*
+the winner would receive “a year’s worth of bragging rights."
 
 
 # Preparation
@@ -31,8 +31,7 @@ I also put Shane on Ritual storm, as he had played that at every preceding event
 
 That still left me with four players who might reasonably field zero to four Shops decks, two or
 more Survival decks, at most one White Eldrazi, or another Paradoxical list that would tow close to
-[Coval’s streamlined, Eternal Weekend winning
-list](http://www.tcdecks.net/deck.php?id=28940&iddeck=239598).
+[Coval’s streamlined, Eternal Weekend winning list](http://www.tcdecks.net/deck.php?id=28940&iddeck=239598).
 
 I brewed a lot. Paradoxical, like most blue decks in the format, has a dozen optional slots that
 can dramatically change how the deck performs in various matchups. Vintage Blue’s set of powerful
@@ -41,8 +40,9 @@ true Blue decks—those that play Demonic Tutor and Yawgmoth’s Win — as thos
 black splash are now — and have always been — fish decks.
 
 At some point I expected four Survival decks, which led to such hits as maindeck Massacre with both
-Vamp and Mystical to find it, as well as purchasing more than one copy of [Glare of
-Heresy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373691). Dreams of exiling
+Vamp and Mystical to find it, as well as purchasing more than one copy of
+[Glare of Heresy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373691).
+Dreams of exiling
 Stony Silence or Thalia as needed had me fantasizing about being made fun of for popularizing a new
 Vintage all-star white sorcery in a sort of Rube-Goldberg power fantasy.  There was a 75 with
 double Dread of Night, as well as one with 14 lands in the main. I’m not proud.
