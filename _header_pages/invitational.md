@@ -50,4 +50,4 @@ the invite.
 * 2018 Invitational Champion - Bryan Hockey
 * 2019 Invitational Champion - Bryan Hockey
 * 2021 Invitational Champion - Andrew Webb
-* 2022 Invitational Champion - Bryan Hockey
+* [2022 Invitational Champion](/results/2022-12-03) - Bryan Hockey
