@@ -5,7 +5,7 @@ cover: /assets/images/banner_1.jpg
 
 <div class="home">
 
-  {% assign default_event_cover = '/assets/images/default_event_cover.jpg' %}
+  {% assign default_event_cover = '{{site.cdn_url}}/assets/images/default_event_cover.jpg' %}
 
     <div class="clearfix">
       <h1 class="event-time-heading fix-top">Upcoming Events</h1>
@@ -19,7 +19,7 @@ cover: /assets/images/banner_1.jpg
       {% for post in announcements %}
         <a href="{{ post.url | prepend: site.baseurl }}">
           <div class="event-sqaure"
-            style="background-image:url({{post.cover | default: default_event_cover}});">
+            style="background-image:url({{site.cdn_url}}/{{post.cover | default: default_event_cover}});">
             {% if post.display_date %}
               <h2>{{ post.title }} <span>{{ post.display_date | date: "%b %-d, %Y" }}</span></h2>
             {% else %}
@@ -38,7 +38,7 @@ cover: /assets/images/banner_1.jpg
       {% for post in site.results reversed %}
         <a href="{{ post.url | prepend: site.baseurl }}">
           <div class="event-sqaure"
-            style="background-image:url({{post.cover | default: default_event_cover}});">
+            style="background-image:url({{site.cdn_url}}/{{post.cover | default: default_event_cover}});">
             <h2>{{ post.title }} <span>{{ post.date | date: "%b %-d, %Y" }}</span></h2>
             <div class='event-square-overlay'></div>
           </div>
@@ -54,7 +54,7 @@ cover: /assets/images/banner_1.jpg
       {% for post in articles %}
         <a href="{{ post.url | prepend: site.baseurl }}">
           <div class="event-sqaure"
-            style="background-image:url({{post.cover | default: default_event_cover}});">
+            style="background-image:url({{site.cdn_url}}/{{post.cover | default: default_event_cover}});">
             <h2>{{ post.title }} <span>{{ post.date | date: "%b %-d, %Y" }}</span></h2>
             <div class='event-square-overlay'></div>
           </div>
