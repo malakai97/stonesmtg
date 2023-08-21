@@ -5,7 +5,7 @@ cover: /assets/images/YYYY-MM-DD/cover.jpg
 ---
 
 <!--- remove this line and uncomment the next line when the poster is ready --->
-<!--- ![](/assets/images/YYYY-MM-DD/poster.jpg) --->
+<!--- ![]({{site.cdn_url}}/assets/images/YYYY-MM-DD/poster.jpg) --->
 
 * **Registration**: Month Day, 10:30 registration, with a 11:00 start time.
 * **Location**: [Venue Name](https://linktovenue.com/) - Address here

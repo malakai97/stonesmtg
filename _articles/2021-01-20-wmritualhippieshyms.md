@@ -4,7 +4,7 @@ title: "Rituals and Hippies and Hymns, Oh My!"
 cover: /assets/images/2021-01-20/ritualshippieshymns.jpg
 ---
 
-![](/assets/images/2021-01-20/ritualshippieshymns.jpg)
+![]({{site.cdn_url}}/assets/images/2021-01-20/ritualshippieshymns.jpg)
 
 # Following a Swampy Brick Road to the Festival of Friendship
 *by Wendall Marvel*
@@ -62,7 +62,7 @@ essentially 'Take out a Swamp and Sol Ring for Black Lotus and Mox Jet main,
 take out Animate Dead for a Disk in the board' off of the deck photo I started
 with.
 
-![](/assets/images/2021-01-20/monoblackrack.jpg)
+![]({{site.cdn_url}}/assets/images/2021-01-20/monoblackrack.jpg)
 
 Friday night I took a photo of the deck to send in for registration.
 Saturday morning I put my playmat on my desk and manually Knuth shuffled my

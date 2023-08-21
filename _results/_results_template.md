@@ -22,24 +22,24 @@ from the previous paragraph.
 
 # Standings
 
-1. This Is How - [Ravager Shops](/assets/images/YYYY-MM-DD/deck-1.jpg)
-2. We Should - [Jeskai Standard Walkers](/assets/images/YYYY-MM-DD/deck-2.jpg)
-3. List Standings - [Blue Moon](/assets/images/YYYY-MM-DD/deck-3.jpg)
-4. And Decklists - [BW Hex Depths](/assets/images/YYYY-MM-DD/deck-4.jpg)
-5. However - [Paradoxical Storm](/assets/images/YYYY-MM-DD/deck-5.jpg)
-6. Decklists Might - [Blood Moon Tribal](/assets/images/YYYY-MM-DD/deck-6.jpg)
-7. Be Separate - [Ravager Shops](/assets/images/YYYY-MM-DD/deck-7.jpg)
+1. This Is How - [Ravager Shops]({{site.cdn_url}}/assets/images/YYYY-MM-DD/deck-1.jpg)
+2. We Should - [Jeskai Standard Walkers]({{site.cdn_url}}/assets/images/YYYY-MM-DD/deck-2.jpg)
+3. List Standings - [Blue Moon]({{site.cdn_url}}/assets/images/YYYY-MM-DD/deck-3.jpg)
+4. And Decklists - [BW Hex Depths]({{site.cdn_url}}/assets/images/YYYY-MM-DD/deck-4.jpg)
+5. However - [Paradoxical Storm]({{site.cdn_url}}/assets/images/YYYY-MM-DD/deck-5.jpg)
+6. Decklists Might - [Blood Moon Tribal]({{site.cdn_url}}/assets/images/YYYY-MM-DD/deck-6.jpg)
+7. Be Separate - [Ravager Shops]({{site.cdn_url}}/assets/images/YYYY-MM-DD/deck-7.jpg)
 
 # Pics
 
 A caption
-![](/assets/images/YYYY-MM-DD/1.jpg)
+![]({{site.cdn_url}}/assets/images/YYYY-MM-DD/1.jpg)
 
 Another caption
-![](/assets/images/YYYY-MM-DD/2.jpg)
+![]({{site.cdn_url}}/assets/images/YYYY-MM-DD/2.jpg)
 
 Sometimes we caption a series of pictures.
-![](/assets/images/YYYY-MM-DD/3.jpg)
-![](/assets/images/YYYY-MM-DD/4.jpg)
-![](/assets/images/YYYY-MM-DD/5.jpg)
-![](/assets/images/YYYY-MM-DD/6.jpg)
+![]({{site.cdn_url}}/assets/images/YYYY-MM-DD/3.jpg)
+![]({{site.cdn_url}}/assets/images/YYYY-MM-DD/4.jpg)
+![]({{site.cdn_url}}/assets/images/YYYY-MM-DD/5.jpg)
+![]({{site.cdn_url}}/assets/images/YYYY-MM-DD/6.jpg)

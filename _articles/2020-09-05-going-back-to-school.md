@@ -63,7 +63,7 @@ these tutors in the format, that would be useful.
 
 ### Honorable Mention: Tinker, by Andrew Webb
 
-![](/assets/images/2020-07-24/andrewtinker.jpg)
+![]({{site.cdn_url}}/assets/images/2020-07-24/andrewtinker.jpg)
 
 This deck defined combo danger for the tournament. Several of his matches were
 very lopsided turn 3 wins. After watching the turn three win, Eric Vergo on GR
@@ -76,7 +76,7 @@ refined. Do not ignore this danger.
 
 ### Enchantress, by David London
 
-![](/assets/images/2020-07-24/davidenchantress.jpg)
+![]({{site.cdn_url}}/assets/images/2020-07-24/davidenchantress.jpg)
 
 David ran into some difficult matches in the swiss playing against two decks
 with Meddling Mage, and his worst possible matchup in the quarters, playing
@@ -93,9 +93,9 @@ to have stuff in the board to beat faster combos. David has Mana Leaks and some
 enchantment hosers. Neat deck.
 ### Survival, by Bryan Hockey and Lorien Elleman
 
-![](/assets/images/2020-07-24/hockeyrector.jpg)
+![]({{site.cdn_url}}/assets/images/2020-07-24/hockeyrector.jpg)
 
-![](/assets/images/2020-07-24/lorienmadness.jpg)
+![]({{site.cdn_url}}/assets/images/2020-07-24/lorienmadness.jpg)
 
 Hockey’s deck really demonstrates the difficulty with the mana in the format.
 By his own admission it was a bit of a hot mess. He has Survival and the tutor
@@ -117,9 +117,9 @@ for Pattern of Rebirth.
 
 ### UW Landstill, by Woodrow Bogucki and Patrick Vincent
 
-![](/assets/images/2020-07-24/woodrowlandstill.jpg)
+![]({{site.cdn_url}}/assets/images/2020-07-24/woodrowlandstill.jpg)
 
-![](/assets/images/2020-07-24/patricklandstill.jpg)
+![]({{site.cdn_url}}/assets/images/2020-07-24/patricklandstill.jpg)
 
 WHAT GREAT DECKS. In my unbiased opinion these decks are clearly the best.
 In all seriousness at first I thought the deck would be a little too slow to
@@ -139,7 +139,7 @@ surprises and it’s possible the rest of the format may catch up to it.
 
 ### Elves! by Travis Brown*
 
-![](/assets/images/2020-07-24/traviselves.jpg)
+![]({{site.cdn_url}}/assets/images/2020-07-24/traviselves.jpg)
 
 At first glance I had some concerns about this deck not respecting the combo
 danger, and I though the Biorhythm was a win-more inclusion. I understand
@@ -156,7 +156,7 @@ though. Also, Engineered Plague was very painful.
 
 ### UW Stiflenaught, by Hayden Bagot
 
-![](/assets/images/2020-07-24/haydenstiflenaught.jpg)
+![]({{site.cdn_url}}/assets/images/2020-07-24/haydenstiflenaught.jpg)
 
 Hayden went 5 – 0 in the swiss and this deck was the talk of the tournament.
 It is doing the best of both worlds an interactive two color deck with a
@@ -177,7 +177,7 @@ room to grow if you expect the right metagame.
 
 ### The Rock, by Rob Connolly
 
-![](/assets/images/2020-07-24/robrock.jpg)
+![]({{site.cdn_url}}/assets/images/2020-07-24/robrock.jpg)
 
 Doing “the people’s work,” Rob rocked the tournament with the classic
 combination of black disruption and green fat.
@@ -200,7 +200,7 @@ Oh wait!? It doesn’t matter! This is like debating making a ham sandwich with
 rye or whole grain bread (rye, obviously). It’s still going to be delicious.
 And now we do smell what The Rock is cooking. HAM SANDWICH!
 
-![](/assets/images/2020-09-05/ham.png)
+![]({{site.cdn_url}}/assets/images/2020-09-05/ham.png)
 
 ## Moving Forward
 

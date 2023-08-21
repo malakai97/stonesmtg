@@ -118,7 +118,7 @@ Taco Bell and then got into town around 7:00. Ben and Patrick hung out at our Ai
 I made a run to Kroger for beer and basic supplies. We were all tired and decided to stay in, tune
 our decks, watch Rich Shay streams, and drink beers until midnight.
 
-![](/assets/images/articles/2018/scgcon/stu/1.jpg)
+![]({{site.cdn_url}}/assets/images/articles/2018/scgcon/stu/1.jpg)
 
 # Part 3: The Power 9 Series
 
@@ -135,7 +135,7 @@ sleeves. I still had some time before the tournament started, so I went to get m
 Tells signed by Jeff Laubenstein. I also picked up a Show & Tell playmat as a prize for a future
 Vintage event:
 
-![](/assets/images/articles/2018/scgcon/stu/2.jpg)
+![]({{site.cdn_url}}/assets/images/articles/2018/scgcon/stu/2.jpg)
 
 At 10:00 we all sat down for the players’ meeting, and learned that there’d be 124 of us
 competing. I don’t know what kind of numbers Starcity expected, but for me, this was great: as
@@ -173,7 +173,7 @@ get paired next round, and we both laughed heartily.
 
 ## Round 3: Ben on Ravager Shops
 
-![](/assets/images/articles/2018/scgcon/stu/3.jpg)
+![]({{site.cdn_url}}/assets/images/articles/2018/scgcon/stu/3.jpg)
 
 This is why you don’t joke about getting paired against your friends. Ben and I have tested this
 matchup extensively, and it’s garbage.
@@ -191,7 +191,7 @@ event regardless, so I wasn’t going to drop, but I did readjust my mindset and
 Again, with my round going so fast I had some free time, so I got Pete Venters to do some
 signatures and Mark Tedin to alter my Sol Ring.
 
-![](/assets/images/articles/2018/scgcon/stu/4.jpg)
+![]({{site.cdn_url}}/assets/images/articles/2018/scgcon/stu/4.jpg)
 
 ## Round 4: Dave on Paradoxical Oath
 
@@ -273,7 +273,7 @@ Day 2 didn’t start for me until noon, but as my Airbnbuddies were playing in t
 we were all up by 8:00. Mike was in pain from the beer and food, but the rest of us felt fine!
 After a quick shower I put on my Lebowski socks and we got another McDonald’s breakfast.
 
-![](/assets/images/articles/2018/scgcon/stu/5.jpg)
+![]({{site.cdn_url}}/assets/images/articles/2018/scgcon/stu/5.jpg)
 
 **Caffeine count: 1**
 
@@ -308,7 +308,7 @@ ascendant.
 
 **6-3 (14-8)**
 
-![](/assets/images/articles/2018/scgcon/stu/6.jpg)
+![]({{site.cdn_url}}/assets/images/articles/2018/scgcon/stu/6.jpg)
 
 Taking down an intimidating first round felt great. With plenty of time to spare, I got another
 coffee and listened to No Quarter to keep the high going.
@@ -343,7 +343,7 @@ his few lands. He desperation Timetwistered, passed, and I drew a hand that let 
 I was feeling pretty good about picking up that “gets-me-a-positive-record” win. Remembering
 that energy is important, I got two brats before the next round started.
 
- ![](/assets/images/articles/2018/scgcon/stu/7.jpg)
+ ![]({{site.cdn_url}}/assets/images/articles/2018/scgcon/stu/7.jpg)
 
 # Round 12: Chris on UWR Xerox
 

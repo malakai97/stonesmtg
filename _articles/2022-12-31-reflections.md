@@ -31,8 +31,8 @@ simultaneously nostalgic and unexplored. And then as a community, these leagues
 have brought together our local Texas scene with clubs from Ohio, Chicago,
 Nashville, Virginia, California, and more.
 
-![](/assets/images/2022-12-31/dance.jpg)
-![](/assets/images/2022-12-31/schools_out.gif)
+![]({{site.cdn_url}}/assets/images/2022-12-31/dance.jpg)
+![]({{site.cdn_url}}/assets/images/2022-12-31/schools_out.gif)
 
 This year we ran 4 leagues. Each league was a success, but of particular note
 were the Dance Party as our biggest event to date (51 players), and the Fall
@@ -43,8 +43,8 @@ Terrageddon). I’ll leave actual meta analysis and strategic commentary to the
 smarter members of our community, but would just pose this as an argument
 against any idea of the format being “solved.”
 
-![](/assets/images/2022-12-31/summer.jpg)
-![](/assets/images/2022-12-31/fall.jpg)
+![]({{site.cdn_url}}/assets/images/2022-12-31/summer.jpg)
+![]({{site.cdn_url}}/assets/images/2022-12-31/fall.jpg)
 
 The truly big accomplishment of the season, though, was our stream. The
 Romancing the Stones stream has been a work-in-progress over the course of the
@@ -99,12 +99,12 @@ iconic Magic cards: see our HEB Library of Alexandria, Bluebonnet Sylvan
 Library, Hotel Vegas Bolas’s Citadel, etc. This year, Bobby pushed his skills
 with Tarot-themed trophies:
 
-![](/assets/images/2022-12-31/hollow_one_trophy.png)
-![](/assets/images/2022-12-31/swords_to_plow.png)
-![](/assets/images/2022-12-31/thought_knot_seer_trophy.png)
-![](/assets/images/2022-12-31/timetwister.png)
-![](/assets/images/2022-12-31/tinker_trophy.png)
-![](/assets/images/2022-12-31/wheel_of_fortune_tarot.png)
+![]({{site.cdn_url}}/assets/images/2022-12-31/hollow_one_trophy.png)
+![]({{site.cdn_url}}/assets/images/2022-12-31/swords_to_plow.png)
+![]({{site.cdn_url}}/assets/images/2022-12-31/thought_knot_seer_trophy.png)
+![]({{site.cdn_url}}/assets/images/2022-12-31/timetwister.png)
+![]({{site.cdn_url}}/assets/images/2022-12-31/tinker_trophy.png)
+![]({{site.cdn_url}}/assets/images/2022-12-31/wheel_of_fortune_tarot.png)
 
 These trophies were so good, we ditched our traditional posters and used them
 as our promotional images for the events! These are amazing, unique cards our
@@ -123,7 +123,7 @@ broadcast and commentate on 8 rounds of Middle School and Vintage. It was a
 herculean feat done entirely from the goodness of Rob’s heart. If you missed
 it live, the videos are up [online](https://twitch.tv/romancingthestones).
 
-![](/assets/images/2022-12-31/invitational_crew.jpg)
+![]({{site.cdn_url}}/assets/images/2022-12-31/invitational_crew.jpg)
 
 Bryan Hockey took down the Invitational for, incredibly, the third time! He did
 it in style, too, piloting the brand new Initiative deck to a very convincing
@@ -155,7 +155,7 @@ Thankfully, Patrick and Kai led the Stones to victory, claiming 1st place
 finishes in the Middle School and Vintage events, respectively. It was an
 incredible weekend, and we can’t wait to run it back in 2023.
 
-![](/assets/images/2022-12-31/tsi_crew.jpg)
+![]({{site.cdn_url}}/assets/images/2022-12-31/tsi_crew.jpg)
 
 Over the summer, we started talking to our Houston brethren, the Falling Stars,
 about co-hosting an event. That came together as The Hurricane: a double header
@@ -164,7 +164,7 @@ it out of the park, coordinating wonderful prizes and participation cards,
 running a smooth event, and fundraising $1000 for charity. Expect to see The
 Hurricane, or something similar, back next year!
 
-![](/assets/images/2022-12-31/hurricane.jpg)
+![]({{site.cdn_url}}/assets/images/2022-12-31/hurricane.jpg)
 
 After a few years without it, Eternal Weekend came out of nowhere. I’m sure
 Wizards and Card Titan had some intense logistical constraints to work against,
@@ -176,7 +176,7 @@ much of the TSI crew, and spent most of the weekend hanging with us, too! The
 chance to get a lot more facetime with Rajah was a gift, and we had a great
 time together.
 
-![](/assets/images/2022-12-31/ew_crew.jpg)
+![]({{site.cdn_url}}/assets/images/2022-12-31/ew_crew.jpg)
 
 Bryan Hockey finished 3rd at 2019 Vintage Champs – the last paper Eternal
 Weekend. Despite the small crew attending, our circle represented yet again!
@@ -187,7 +187,7 @@ bringing a painting back to Ohio and earning some nice coattails for RTS to
 ride. Apparently, our community is really carving out some competitive ground
 for itself.
 
-![](/assets/images/2022-12-31/champ.jpg)
+![]({{site.cdn_url}}/assets/images/2022-12-31/champ.jpg)
 
 
 # Enhancing the Stones

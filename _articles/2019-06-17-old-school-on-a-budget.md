@@ -30,7 +30,7 @@ If you’re going to be playing with EC
 rules, the first thing you should do is buy yourself a playset of Strip Mines
 and a playset of Urza’s Factories.
 
-![](/assets/images/2019-06-17/factories_strips.jpg)
+![]({{site.cdn_url}}/assets/images/2019-06-17/factories_strips.jpg)
 
 Strip Mine is your best tool in leveling the playing field against
 fully-powered opponents. Many of the top decks in the format play a Library of
@@ -80,7 +80,7 @@ jump into our options!
 
 ## Mono Black Rack
 
-![](/assets/images/2019-06-17/black.jpg)
+![]({{site.cdn_url}}/assets/images/2019-06-17/black.jpg)
 *(Deck: Rob Connolly)*
 
 Mono Black is the most brutal and controlling of the budget decks. Hymn to
@@ -97,7 +97,7 @@ spell, like Terror or Paralyze, might be useful.
 
 ## Merfolk
 
-![](/assets/images/2019-06-17/merfolk.jpg)
+![]({{site.cdn_url}}/assets/images/2019-06-17/merfolk.jpg)
 *(Deck: Evan Smith)*
 
 Merfolk is our tempo option. Similar to a contemporary Delver deck, your goal
@@ -113,7 +113,7 @@ Seasinger or Aeolipile.
 
 ## Mono Green
 
-![](/assets/images/2019-06-17/green.jpg)
+![]({{site.cdn_url}}/assets/images/2019-06-17/green.jpg)
 *(Deck: Derek Walker)*
 
 Mono Green’s become increasingly popular in Old School recently. This list
@@ -130,7 +130,7 @@ Crumble.
 
 ## Goblins
 
-![](/assets/images/2019-06-17/gobbos.jpg)
+![]({{site.cdn_url}}/assets/images/2019-06-17/gobbos.jpg)
 *(Deck: Stuart Ziarnik)*
 
 Goblins is the most purely aggressive deck on this list. While your creatures
@@ -147,7 +147,7 @@ can’t, some extra copies of Stone Rain or Shatterstorm could do the trick.
 
 ## White Weenie
 
-![](/assets/images/2019-06-17/white.jpg)
+![]({{site.cdn_url}}/assets/images/2019-06-17/white.jpg)
 *(Deck: Stuart Ziarnik)*
 
 White Weenie is nearly as popular as Mono Black, though it’s been waning in

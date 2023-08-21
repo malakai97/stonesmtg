@@ -14,7 +14,7 @@ middle school, so I figured, “why not?”
 
 Here’s the list I ran in the Summer School webcam league:
 
-![](/assets/images/2020-09-09/elfageddon.jpg)
+![]({{site.cdn_url}}/assets/images/2020-09-09/elfageddon.jpg)
 
 This list offers some real incentives:
 
@@ -53,10 +53,10 @@ enough to warrant such a narrow SB card.
 
 ### The Mana
 
-![](/assets/images/2020-09-09/fyndhorn.png)
-![](/assets/images/2020-09-09/llanowar.png)
-![](/assets/images/2020-09-09/priest.png)
-![](/assets/images/2020-09-09/cradle.png)
+![]({{site.cdn_url}}/assets/images/2020-09-09/fyndhorn.png)
+![]({{site.cdn_url}}/assets/images/2020-09-09/llanowar.png)
+![]({{site.cdn_url}}/assets/images/2020-09-09/priest.png)
+![]({{site.cdn_url}}/assets/images/2020-09-09/cradle.png)
 
 These are the reasons you can play every other card in the deck. Both Fyndhorn
 and Llanowar put you far ahead of most other decks if you have one in your
@@ -64,10 +64,10 @@ opening hand, and both Priest and Cradle add insane amounts of mana.
 
 ### The Payoffs
 
-![](/assets/images/2020-09-09/hermit.png)
-![](/assets/images/2020-09-09/geddon.png)
-![](/assets/images/2020-09-09/plow.png)
-![](/assets/images/2020-09-09/bio.png)
+![]({{site.cdn_url}}/assets/images/2020-09-09/hermit.png)
+![]({{site.cdn_url}}/assets/images/2020-09-09/geddon.png)
+![]({{site.cdn_url}}/assets/images/2020-09-09/plow.png)
+![]({{site.cdn_url}}/assets/images/2020-09-09/bio.png)
 
 Hermit, Geddon, Plow Under, and Biorhythm can all end the game on the spot.
 Deranged hermit is likely the best threat in the format (remember: this ain’t
@@ -76,10 +76,10 @@ cannot play any more Magic.
 
 ### The Engine
 
-![](/assets/images/2020-09-09/symbiote.png)
-![](/assets/images/2020-09-09/messenger.png)
-![](/assets/images/2020-09-09/hermit.png)
-![](/assets/images/2020-09-09/forcemage.png)
+![]({{site.cdn_url}}/assets/images/2020-09-09/symbiote.png)
+![]({{site.cdn_url}}/assets/images/2020-09-09/messenger.png)
+![]({{site.cdn_url}}/assets/images/2020-09-09/hermit.png)
+![]({{site.cdn_url}}/assets/images/2020-09-09/forcemage.png)
 
 Wirewood Symbiote is one of the best cards in the deck, and it provides an
 absurd amount of versatility and value. Keep in mind that the little bug lets

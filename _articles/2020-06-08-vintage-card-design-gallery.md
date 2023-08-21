@@ -40,139 +40,139 @@ those that weren’t, we’ve done them here with our Burger logo.)
 ## Bryan Hockey
 
 ### Stuart, Grand Organizer
-![](/assets/images/2020-06-08/stuart.png)
+![]({{site.cdn_url}}/assets/images/2020-06-08/stuart.png)
 
 ### Kaltus, Writer of Law
-![](/assets/images/2020-06-08/kaltus.png)
+![]({{site.cdn_url}}/assets/images/2020-06-08/kaltus.png)
 
 ### Simple Hermit
-![](/assets/images/2020-06-08/simple_hermit.png)
+![]({{site.cdn_url}}/assets/images/2020-06-08/simple_hermit.png)
 
 ### Extort: Runner-up, Most Flavorful
-![](/assets/images/2020-06-08/extort.png)
+![]({{site.cdn_url}}/assets/images/2020-06-08/extort.png)
 
 ### Fire-Forged Oustonite
-![](/assets/images/2020-06-08/oustonite.png)
+![]({{site.cdn_url}}/assets/images/2020-06-08/oustonite.png)
 
 
 ## Eric Miller
 
 ### Hobart: 1st Place, Best Overall Design
-![](/assets/images/2020-06-08/hobart.png)
+![]({{site.cdn_url}}/assets/images/2020-06-08/hobart.png)
 
 
 ## Jack Bellingrath
 
 ### Bo Levar
-![](/assets/images/2020-06-08/bo.png)
+![]({{site.cdn_url}}/assets/images/2020-06-08/bo.png)
 
 ### Goblin Basher
-![](/assets/images/2020-06-08/basher.png)
+![]({{site.cdn_url}}/assets/images/2020-06-08/basher.png)
 
 
 ## Joseph Amaya
 
 ### Mandate of Bloodletting
-![](/assets/images/2020-06-08/mandate.png)
+![]({{site.cdn_url}}/assets/images/2020-06-08/mandate.png)
 
 ### Primordial Fires
-![](/assets/images/2020-06-08/primordial.png)
+![]({{site.cdn_url}}/assets/images/2020-06-08/primordial.png)
 
 ### Mons’s Elite Raiders: Runner-up, Most Likely to Get Restricted
-![](/assets/images/2020-06-08/mons.png)
+![]({{site.cdn_url}}/assets/images/2020-06-08/mons.png)
 
 
 ## Ro Hinojosa
 
 ### Entry-Level Bear: The Lurrus Award for Worst Design
-![](/assets/images/2020-06-08/entry.png)
+![]({{site.cdn_url}}/assets/images/2020-06-08/entry.png)
 
 ### The Faerly Oddparents
-![](/assets/images/2020-06-08/oddparents.png)
+![]({{site.cdn_url}}/assets/images/2020-06-08/oddparents.png)
 
 
 ## Alex Zavoluk
 
 ### Tax Collector
-![](/assets/images/2020-06-08/taxcollector.png)
+![]({{site.cdn_url}}/assets/images/2020-06-08/taxcollector.png)
 
 ### Living Maze
-![](/assets/images/2020-06-08/maze.png)
+![]({{site.cdn_url}}/assets/images/2020-06-08/maze.png)
 
 ### Force Balance: 1st Place, Most Likely to Get Restricted
-![](/assets/images/2020-06-08/balance.png)
+![]({{site.cdn_url}}/assets/images/2020-06-08/balance.png)
 
 ### One With Graves
-![](/assets/images/2020-06-08/graves.png)
+![]({{site.cdn_url}}/assets/images/2020-06-08/graves.png)
 
 
 ## Ian Files
 
 ### Karn’s Undoing
-![](/assets/images/2020-06-08/undoing.png)
+![]({{site.cdn_url}}/assets/images/2020-06-08/undoing.png)
 
 
 ## Ty Thomason
 
 ### Goblin Accountant: 1st Place, Most Flavorful
-![](/assets/images/2020-06-08/accountant.png)
+![]({{site.cdn_url}}/assets/images/2020-06-08/accountant.png)
 
 ### Goblin Mutation
-![](/assets/images/2020-06-08/mutation.png)
+![]({{site.cdn_url}}/assets/images/2020-06-08/mutation.png)
 
 ### Goblin Zookeeper
-![](/assets/images/2020-06-08/zookeeper.png)
+![]({{site.cdn_url}}/assets/images/2020-06-08/zookeeper.png)
 
 
 ## Steven Whitehead
 
 ### Rhetorical Wizard
-![](/assets/images/2020-06-08/rhetorical.png)
+![]({{site.cdn_url}}/assets/images/2020-06-08/rhetorical.png)
 
 
 ## Eric Vergo
 
 ### Unnatural Evolution
-![](/assets/images/2020-06-08/unnatural.png)
+![]({{site.cdn_url}}/assets/images/2020-06-08/unnatural.png)
 
 ### Arcbound Replicator
-![](/assets/images/2020-06-08/arcbound.png)
+![]({{site.cdn_url}}/assets/images/2020-06-08/arcbound.png)
 
 ### Tamiyo, Friend to Fauna
-![](/assets/images/2020-06-08/tamiyo.png)
+![]({{site.cdn_url}}/assets/images/2020-06-08/tamiyo.png)
 
 ### Precarious Connection: 1st Place, Best Overall Design
-![](/assets/images/2020-06-08/precarious.png)
+![]({{site.cdn_url}}/assets/images/2020-06-08/precarious.png)
 
 ### Reuse
-![](/assets/images/2020-06-08/reuse.png)
+![]({{site.cdn_url}}/assets/images/2020-06-08/reuse.png)
 
 ### Keeper of Rest
-![](/assets/images/2020-06-08/keeper.png)
+![]({{site.cdn_url}}/assets/images/2020-06-08/keeper.png)
 
 ## Nate Golia
 
 ### Sealing Chaplain
-![](/assets/images/2020-06-08/sealing.png)
+![]({{site.cdn_url}}/assets/images/2020-06-08/sealing.png)
 
 ### Stone of Interloper’s Bane
-![](/assets/images/2020-06-08/interloper.png)
+![]({{site.cdn_url}}/assets/images/2020-06-08/interloper.png)
 
 ### Magestalker
-![](/assets/images/2020-06-08/magestalker.png)
+![]({{site.cdn_url}}/assets/images/2020-06-08/magestalker.png)
 
 ### Feedback Field
-![](/assets/images/2020-06-08/feedback.png)
+![]({{site.cdn_url}}/assets/images/2020-06-08/feedback.png)
 
 ### Leveling Field
-![](/assets/images/2020-06-08/leveling.png)
+![]({{site.cdn_url}}/assets/images/2020-06-08/leveling.png)
 
 ### Knowledge Field
-![](/assets/images/2020-06-08/knowledge.png)
+![]({{site.cdn_url}}/assets/images/2020-06-08/knowledge.png)
 
 ### Enchanted Field
-![](/assets/images/2020-06-08/enchanted.png)
+![]({{site.cdn_url}}/assets/images/2020-06-08/enchanted.png)
 
 ### Field of Greed
-![](/assets/images/2020-06-08/greed.png)
+![]({{site.cdn_url}}/assets/images/2020-06-08/greed.png)
 
