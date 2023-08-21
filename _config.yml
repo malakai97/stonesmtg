@@ -3,6 +3,7 @@ description: >-
   Proxy Vintage series in Austin, TX. Heavy on beer.
 baseurl: ""
 url: "https://stonesmtg.com"
+cdn_url: https://stonesmtg-assets.nyc3.cdn.digitaloceanspaces.com
 timezone: America/Chicago
 future: true
 encoding: utf-8

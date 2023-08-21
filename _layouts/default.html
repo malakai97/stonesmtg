@@ -4,12 +4,7 @@
   <body>
     {% include header.html %}
 
-    {% if page.cover %}
-    <div class="blog-cover" style="background-image:url({{page.cover}});"> </div>
-    {% else %}
-    <div class="blog-cover" style="background-image:url(/assets/images/banner_1.jpg);"> </div>
-    {% endif %}
-
+    <div class="blog-cover" style="background-image:url({{site.cdn_url}}/{{page.cover}});"> </div>
     <div class="page-content">
       <div class="wrapper">
         {{ content }}
