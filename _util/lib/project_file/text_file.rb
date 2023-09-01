@@ -48,7 +48,7 @@ class TextFile < ProjectFile
   end
 
   def fixed_image_line(line)
-    regex = /(\(\/assets\/images\/([0-9]{4}-[0-9]{2}-[0-9]{2}\/)?.*\))/
+    regex = /(\({{site\.cdn_url}}\/assets\/images\/([0-9]{4}-[0-9]{2}-[0-9]{2}\/)?.*\))/
     line.gsub(regex) do |match|
       match
         .downcase
