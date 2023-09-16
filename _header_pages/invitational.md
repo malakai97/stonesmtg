@@ -24,9 +24,9 @@ Stones Season 5 champion.
 1. Andrew Webb - 1st place at Dance Party 2023
 2. Robin Mannas - 1st place at RTS 27
 3. Patrick Vincent - 2nd place at RTS 28
-4. --
-4. --
-4. --
+4. Paul Garrett - 1st place at RTS 29
+4. Rob Connolly - 1st place at School's Out 2023
+4. Bo Zhang - 1st place at the Houston Hurricane
 4. --
 4. --
 4. --
