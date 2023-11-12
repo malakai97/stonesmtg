@@ -27,10 +27,9 @@ Stones Season 5 champion.
 4. Paul Garrett - 1st place at RTS 29
 4. Rob Connolly - 1st place at School's Out 2023
 4. Bo Zhang - 1st place at the Houston Hurricane
-4. --
-4. --
-4. --
-4. --
+4. Mike O'Malley - 1st place at RTS 30
+4. Winner of RTS 31!
+4. Runner-up of RTS 31!
 
 # Invites
 
