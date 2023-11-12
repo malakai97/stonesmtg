@@ -14,7 +14,6 @@ class TextFile < ProjectFile
   def normalize!
     puts "Normalizing #{path} as text file"
     File.write(normal_path, fixed_content)
-    `fold -s #{normal_path} > #{normal_path}.folded`
     File.delete(normal_path)
     File.rename("#{normal_path}.folded", normal_path)
     File.delete(path) unless path == normal_path
@@ -24,12 +23,6 @@ class TextFile < ProjectFile
   end
 
   private
-
-  # TODO the issue with fold is that it doesn't care about image lines, and thus
-  #   breaks them.
-  def folded_content
-    `fold -s #{path}`
-  end
 
   def content
     @content ||= File.read(path)
