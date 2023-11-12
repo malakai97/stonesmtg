@@ -10,10 +10,12 @@ becomes the Romancing the Stones Season Champion, and earns a year of bragging r
 
 # Event Info for the Season 5 Invitational
 
-* Date: Early December
-* Location: Austin, TX
-* Format: Timed Swiss rounds consisting of a mix of vintage and middle school.
+* Date: Saturday, December 2nd
+* Location: Tweedy's Bar in Austin, TX
+* Format: 3 rounds of Vintage, three rounds of Middle School, with a cut to a Vintage
+  top 4.
 * Decklists: Competitors submit their decks in advance, and we play with open lists.
+  Stu will announce when these are due.
 
 # Roster
 
