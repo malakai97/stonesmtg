@@ -2,6 +2,7 @@
 layout: page
 title: Invitational
 permalink: /invitational/
+cover: /assets/images/banner_1.jpg
 ---
 
 Romancing the Stones tournament series are divided into seasons. Each season lasts about
