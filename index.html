@@ -19,7 +19,7 @@ cover: /assets/images/banner_1.jpg
       {% for post in announcements %}
         <a href="{{ post.url | prepend: site.baseurl }}">
           <div class="event-sqaure"
-            style="background-image:url({{post.cover | default: default_event_cover}});">
+               style="background-image:url({{site.cdn_url}}{{post.cover | default: default_event_cover}});">
             {% if post.display_date %}
               <h2>{{ post.title }} <span>{{ post.display_date | date: "%b %-d, %Y" }}</span></h2>
             {% else %}
