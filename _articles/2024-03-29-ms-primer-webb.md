@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Middle School Primer”
+title: "Middle School Primer"
 cover: /assets/images/articles/ms_primer_2024/primer_header.jpg
 ---
 
-**By Andrew Webb**
+*By Andrew Webb*
 
 For those who are involved with the Romancing the Stones group in Austin I am likely
 known as the group’s biggest Middle School enthusiast.  I love to see players trying
@@ -65,26 +65,26 @@ they are.
 
 ### Some broad themes:
 
-The mana is bad.  There is a very real cost to playing more than 2 colors, and even 2
+**The mana is bad**.  There is a very real cost to playing more than 2 colors, and even 2
 color decks are going to pay some price to have good mana.  The good news is this
 prevents decks from collapsing into a single 3-4 color deck; the bad news is it may be
 very difficult to squeeze all your favorite cards into one deck.
 
-Powerful Enchantments are a centerpiece of the format.  Survival of the Fittest, Oath
+**Powerful Enchantments are a centerpiece of the format.**  Survival of the Fittest, Oath
 of Druids, Land Tax, and Standstill are major contenders in the format.  Don’t leave
 your Naturalizes and Seal of Cleansings at home.
 
-Creatures are not nearly what they are in modern Magic.  While there are some insane
+**Creatures are not nearly what they are in modern Magic.**  While there are some insane
 creatures like Goblin Lackey, Wirewood Symbiote, or Phyrexian Dreadnought, there are
 just not many efficient beaters so you are likely relying on synergies, a mix of spells
 and creatures, or perhaps forgoing the combat step altogether.
 
-Combo Decks are a thing.  For a while Magic got away from combo, but this era
+**Combo Decks are a thing.**  For a while Magic got away from combo, but this era
 encompasses the dawn of what we think of as combo today and there are a lot of ways to
 go about it in the format.  As a result of this Cabal Therapy, Duress, Meddling Mage,
 Counterspells and Disenchants are all key cards in the format to combat these strategies.
 
-The format is very broad – It’s hard to prepare for everything and until you have played
+**The format is very broad** – It’s hard to prepare for everything and until you have played
 it quite a bit, it may be hard to identify what your opponent is up to.  Just enjoy the
 variety.
 
