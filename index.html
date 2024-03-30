@@ -35,7 +35,8 @@ cover: /assets/images/banner_1.jpg
 
     <div class="clearfix">
       <h1 class="event-time-heading">Past Events</h1>
-      {% for post in site.results reversed %}
+      {% assign results = site.results | reverse | slice: 0, 15 %}
+      {% for post in results %}
         <a href="{{ post.url | prepend: site.baseurl }}">
           <div class="event-sqaure"
             style="background-image:url({{site.cdn_url}}{{post.cover | default: default_event_cover}});">
@@ -44,6 +45,7 @@ cover: /assets/images/banner_1.jpg
           </div>
         </a>
       {% endfor %}
+      <a href="{{ 'results' | prepend: site.baseurl }}">More Results</a>
     </div>
 
     <br>
