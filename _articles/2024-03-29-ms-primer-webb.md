@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Middle School Primer”
-cover: /assets/images/primer_header.jpg
+cover: /assets/images/articles/ms_primer_2024/primer_header.jpg
 ---
 
 **By Andrew Webb**
@@ -99,7 +99,7 @@ Control is possibly the cleanest and easiest category to discuss in this format,
 clear favorite (and generally considered best) control deck in the format is Landstill.
 Here is a sample list that won one of our leagues:
 
-![]({{site.cdn_url}}/assets/images/landstill_primer.jpg)
+![]({{site.cdn_url}}/assets/images/articles/ms_primer_2024/landstill_primer.jpg)
 *Deck photo courtesy of Patrick Vincent*
 
 Landstill’s strength rests on the combination of Standstill with man-lands, paired with
@@ -122,7 +122,7 @@ best way to build it.  Most players have gravitated toward mono-color with Surv
 others have splashed Armageddon or Opposition or just played mono-color without
 Survivals. Here is a deck that won a league:
 
-![]({{site.cdn_url}}/assets/images/elves_primer.jpg)
+![]({{site.cdn_url}}/assets/images/articles/ms_primer_2024/elves_primer.jpg)
 *Deck photo courtesy of Andrew Webb*
 
 Elves can generate a ton of mana very quickly, and while it generally wins with the
@@ -139,7 +139,7 @@ Red aggro decks have been a mainstay in almost every format and this one is no e
 It is usually called Sligh in this era (although people will debate the appropriate
 term).  Here is a list that was top 4 in one of our leagues:
 
-![]({{site.cdn_url}}/assets/images/sligh_primer.jpg)
+![]({{site.cdn_url}}/assets/images/articles/ms_primer_2024/sligh_primer.jpg)
 *Deck photo courtesy of Stuart Ziarnik*
 
 Like many decks in this format, there is no consensus build.  An interesting feature of
@@ -162,7 +162,7 @@ Stiflenought deck because there are so many shells in which people play Stifleno
 
 Here is a common approach that got 2nd in a league – dedicated UW Stiflenought:
 
-![]({{site.cdn_url}}/assets/images/dreadnought_primer.jpg)
+![]({{site.cdn_url}}/assets/images/articles/ms_primer_2024/dreadnought_primer.jpg)
 *Deck photo courtesy of Phillip Collier*
 
 The plan is pretty straightforward: make a 12/12, then protect it over the finish line
@@ -185,7 +185,7 @@ paired with Hermit Druid combo, within a Survival deck, or even in a Tax-Rack sh
 Enchantress is certainly a contender, but there are a variety of ways to build it.
 Here is one that made top 8 of one of the leagues:
 
-![]({{site.cdn_url}}/assets/images/enchantress_primer.jpg)
+![]({{site.cdn_url}}/assets/images/articles/ms_primer_2024/enchantress_primer.jpg)
 *Deck photo courtesy of Ty Thomason*
 
 Enchantress has a powerful draw engine, enchantments that provide some protection and
@@ -201,7 +201,7 @@ One of magic’s favorite tribes claim one of the cards on the banned list (Gobl
 Recruiter), but still boast an incredibly powerful suite of creatures headlined by
 Goblin Lackey. Here is a list that won one of the leagues:
 
-![]({{site.cdn_url}}/assets/images/goblin_primer.jpg)
+![]({{site.cdn_url}}/assets/images/articles/ms_primer_2024/goblin_primer.jpg)
 *Deck photo courtesy of Lorien Elleman*
 
 Goblins are probably most often built mono-red, but may also be Rg (gaining access to
@@ -219,7 +219,7 @@ range that exists here.
 
 BG Necro / Nether Spirit Control:
 
-![]({{site.cdn_url}}/assets/images/nether_primer.jpg)
+![]({{site.cdn_url}}/assets/images/articles/ms_primer_2024/nether_primer.jpg)
 *Deck photo courtesy of Brian Tweedy*
 
 
@@ -231,7 +231,7 @@ resources to close out the game.
 
 
 Here is a more classic style Rock deck:
-![]({{site.cdn_url}}/assets/images/rock_primer.jpg)
+![]({{site.cdn_url}}/assets/images/articles/ms_primer_2024/rock_primer.jpg)
 *Deck photo courtesy of Robert Foflygen*
 
 This version is attacking the opponent’s hand and deploying some efficient threats with
@@ -250,7 +250,7 @@ versions here to highlight some of the range.
 
 UWb Drake-Tax:
 
-![]({{site.cdn_url}}/assets/images/tog_primer.jpg)
+![]({{site.cdn_url}}/assets/images/articles/ms_primer_2024/tog_primer.jpg)
 *Deck photo courtesy of Andrew Webb*
 
 This deck can apply quick pressure with Sea Drake and Meddling Mage, backing that up
@@ -259,7 +259,7 @@ lethal with an active Land Tax.
 
 GWx Parfait:
 
-![]({{site.cdn_url}}/assets/images/parfait_primer.jpg)
+![]({{site.cdn_url}}/assets/images/articles/ms_primer_2024/parfait_primer.jpg)
 *Deck photo courtesy of Kai Schafroth*
 
 This deck leans heavily into the Tax-Rack plan and leverages 4 Enlightened Tutors to
@@ -275,7 +275,7 @@ and more.  Each build has its own strengths and weaknesses.
 Replenish is just one of a wide variety of combo decks.  Here is a list that
 won one of our leagues:
 
-![]({{site.cdn_url}}/assets/images/replenish_primer.jpg)
+![]({{site.cdn_url}}/assets/images/articles/ms_primer_2024/replenish_primer.jpg)
 *Deck photo courtesy of Masayuki Higashi*
 
 This deck is a judge call incarnate.  There are a lot of weird interactions that

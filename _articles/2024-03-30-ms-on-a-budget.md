@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Middle School on a Budget”
-cover: /assets/images/budget_header.jpg
+cover: /assets/images/articles/ms_budget_2024/budget_header.jpg
 ---
 
 **by Stuart Ziarnik**
@@ -165,7 +165,7 @@ haven’t put up convincing results.
 
 ### UG Madness
 
-![]({{site.cdn_url}}/assets/images/madness_budget.jpg)
+![]({{site.cdn_url}}/assets/images/articles/ms_budget_2024/madness_budget.jpg)
 *Deck photo courtesy of author*
 
 Madness is one of the classic decks many players think of when dipping their toe into
@@ -187,7 +187,7 @@ Windswepth Heath would open up that option.
 
 ### White Weenie
 
-![]({{site.cdn_url}}/assets/images/weenie_budget.jpg)
+![]({{site.cdn_url}}/assets/images/articles/ms_budget_2024/weenie_budget.jpg)
 *Deck photo courtesy of Phillip Collier*
 
 I said I’d offer some mono-color aggro, right? Let’s start with a classic:
@@ -202,7 +202,7 @@ But that’s a big step up from $100!
 
 ### The Rock
 
-![]({{site.cdn_url}}/assets/images/rock_budget.jpg)
+![]({{site.cdn_url}}/assets/images/articles/ms_budget_2024/rock_budget.jpg)
 *Deck photo courtesy of Sato Junya*
 
 Much like Madness, The Rock is a go-to for many new Middle School players, as
@@ -220,7 +220,7 @@ budget.
 
 ### Grixis Control
 
-![]({{site.cdn_url}}/assets/images/grixis_budget.jpg)
+![]({{site.cdn_url}}/assets/images/articles/ms_budget_2024/grixis_budget.jpg)
 *Deck photo courtesy of Jake Hilty*
 
 There are a variety of ways to build Blue Control without breaking the bank.
@@ -236,7 +236,7 @@ deck, too.
 
 ### Sligh
 
-![]({{site.cdn_url}}/assets/images/sligh_budget.jpg)
+![]({{site.cdn_url}}/assets/images/articles/ms_budget_2024/sligh_budget.jpg)
 *Deck photo courtesy of author*
 
 Red Aggro is the elephant in the room for budget discussions, and I’d be
@@ -248,7 +248,7 @@ red Fetchlands (Wooded Foothills and Bloodstained Mire) and Ball Lightning.
 
 ### Nether Spirit Control
 
-![]({{site.cdn_url}}/assets/images/nether_budget.jpg)
+![]({{site.cdn_url}}/assets/images/articles/ms_budget_2024/nether_budget.jpg)
 *Deck photo courtesy of Bryan Hockey*
 
 Nether Spirit Control is a cousin of The Rock that plays a little more
@@ -262,7 +262,7 @@ trimming 1-2 Necros, that makes the deck even cheaper.
 
 ### Counter Rebels
 
-![]({{site.cdn_url}}/assets/images/rebels_budget.jpg)
+![]({{site.cdn_url}}/assets/images/articles/ms_budget_2024/rebels_budget.jpg)
 *Deck photo courtesy of Robert Wilson*
 
 Counter Rebels is a midrange control deck that plays as a hybrid between White
@@ -276,7 +276,7 @@ great cards to own.
 
 ### Stasis
 
-![]({{site.cdn_url}}/assets/images/stasis_budget.jpg)
+![]({{site.cdn_url}}/assets/images/articles/ms_budget_2024/stasis_budget.jpg)
 *Deck photo courtesy of Paul Garrett*
 
 With Gush, Daze, Force of Will, Black Vise, and Forsaken City in the cardpool,
@@ -289,7 +289,7 @@ play well with Stasis! You might decide you want a full 4 Force of Will.
 
 ### Suicide Black
 
-![]({{site.cdn_url}}/assets/images/black_budget.jpg)
+![]({{site.cdn_url}}/assets/images/articles/ms_budget_2024/black_budget.jpg)
 *Deck photo courtesy of Keith Sweeney*
 
 Suicide Black is the final mono-color aggro deck I’ve selected. Keith’s
@@ -303,7 +303,7 @@ brewing in Middle School), but Keith’s list probably doesn’t want it.
 
 ### RB Goblins
 
-![]({{site.cdn_url}}/assets/images/goblins_budget.jpg)
+![]({{site.cdn_url}}/assets/images/articles/ms_budget_2024/goblins_budget.jpg)
 *Deck photo courtesy of Herb Wilson*
 
 Closing it out, I’ve selected Goblins: another Tier 1 strategy that’s much
