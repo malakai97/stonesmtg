@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Middle School on a Budget”
+title:  "Middle School on a Budget"
 cover: /assets/images/articles/ms_budget_2024/budget_header.jpg
 ---
 
-**by Stuart Ziarnik**
+*by Stuart Ziarnik*
 
 A few years ago I wrote
 [an article about playing Old School without breaking the bank](
