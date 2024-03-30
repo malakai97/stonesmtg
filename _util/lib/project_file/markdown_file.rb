@@ -28,6 +28,7 @@ class MarkdownFile < ProjectFile
   def fixed_content
     content
       .lines
+      .map{|line| fixed_pre_image_line(line)}
       .map{|line| fixed_image_line(line)}
       .map{|line| fixed_pdf_line(line)}
       .join("")
@@ -35,6 +36,17 @@ class MarkdownFile < ProjectFile
 
   def fixed_pdf_line(line)
     line.gsub(".pdf", ".txt")
+  end
+
+  def fixed_pre_image_line(line)
+    line.gsub(/^\/?assets\/images\/.+$/) do |match|
+      fixed_match = if match[0] == "/"
+        match[1, match.size]
+      else
+        match
+      end
+      "![]({{site.cdn_url}}/#{fixed_match})"
+    end
   end
 
   def fixed_image_line(line)
@@ -45,6 +57,7 @@ class MarkdownFile < ProjectFile
         .gsub(" ", "_")
         .gsub(/(-|–)/, "-")
         .gsub("__", "_")
+        .gsub(/\.(png|heic|jpeg)/, ".jpg")
     end
   end
 
