@@ -35,7 +35,7 @@ cover: /assets/images/banner_1.jpg
 
     <div class="clearfix">
       <h1 class="event-time-heading">Past Events</h1>
-      {% assign results = site.results | reverse | slice: 0, 15 %}
+      {% assign results = site.results | reverse | slice: 0, 9 %}
       {% for post in results %}
         <a href="{{ post.url | prepend: site.baseurl }}">
           <div class="event-sqaure"
