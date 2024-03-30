@@ -28,9 +28,11 @@ class MarkdownFile < ProjectFile
   def fixed_content
     content
       .lines
+      .map{|line| add_cdn_url_to_assets(line)}
       .map{|line| fixed_pre_image_line(line)}
       .map{|line| fixed_image_line(line)}
       .map{|line| fixed_pdf_line(line)}
+      .map{|line| cleanup_double_parens(line)}
       .join("")
   end
 
@@ -38,15 +40,23 @@ class MarkdownFile < ProjectFile
     line.gsub(".pdf", ".txt")
   end
 
-  def fixed_pre_image_line(line)
-    line.gsub(/^\/?assets\/images\/.+$/) do |match|
-      fixed_match = if match[0] == "/"
-        match[1, match.size]
+  def add_cdn_url_to_assets(line)
+    return line if line =~ /^cover/
+
+    line.gsub(/\(\/?assets\/images\/.+$/) do |match|
+      # Here we drop the parenthesis and the optional slash so we can
+      # add them back later
+      fixed_match = if match[1] == "/"
+        match[2, match.size]
       else
-        match
+        match[1, match.size]
       end
-      "![]({{site.cdn_url}}/#{fixed_match})"
+      "({{site.cdn_url}}/#{fixed_match})"
     end
+  end
+
+  def fixed_pre_image_line(line)
+    line.sub(/^\(\//, "![](/")
   end
 
   def fixed_image_line(line)
@@ -59,6 +69,12 @@ class MarkdownFile < ProjectFile
         .gsub("__", "_")
         .gsub(/\.(png|heic|jpeg)/, ".jpg")
     end
+  end
+
+  def cleanup_double_parens(line)
+    line
+      .gsub("((", "(")
+      .gsub("))", ")")
   end
 
 end
