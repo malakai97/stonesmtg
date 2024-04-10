@@ -13,7 +13,7 @@ class ImageFile < ProjectFile
 
   def normalize!
     new_path = normal_path.to_s.gsub(path.extname, ".jpg")
-    cmd = "convert -resize 1600x1200\\> -quality 0.6 '#{path}' '#{new_path}'"
+    cmd = "convert -resize 1600x1200\\> -quality 0.9 '#{path}' '#{new_path}'"
     puts "Converting..."
     puts cmd
     system(cmd)
