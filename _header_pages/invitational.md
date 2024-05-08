@@ -24,8 +24,9 @@ Stones Season 6 champion.
 
 1. Stu Ziarnik - Season 5 / 2023 Champion
 2. Justin Bruce - 1st place at [Festival of Friendship Vintage](/results/2024-01-13)
-3. Matt Perlman - 1st place in the [Dance Party Middle School League](/results/2024-02-29)
+3. Galen Lamei - 2nd place in the [Dance Party Middle School League](/results/2024-02-29)
 4. Ben Kendrick - 1st place at [RTS32](/results/2024-03-23)
+5. Paul Garrett - 1st place at [RTS33](/results/2024-05-04)
 
 # Invites
 
