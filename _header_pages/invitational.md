@@ -27,6 +27,7 @@ Stones Season 6 champion.
 3. Galen Lamei - 2nd place in the [Dance Party Middle School League](/results/2024-02-29)
 4. Ben Kendrick - 1st place at [RTS32](/results/2024-03-23)
 5. Paul Garrett - 1st place at [RTS33](/results/2024-05-04)
+6. Brian Tweedy - 1st place in the [School's Out middle School League](/results/2024-04-15)
 
 # Invites
 
