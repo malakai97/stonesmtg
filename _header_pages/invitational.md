@@ -28,6 +28,8 @@ Stones Season 6 champion.
 4. Ben Kendrick - 1st place at [RTS32](/results/2024-03-23)
 5. Paul Garrett - 1st place at [RTS33](/results/2024-05-04)
 6. Brian Tweedy - 1st place in the [School's Out middle School League](/results/2024-04-15)
+7. Dan Ersch - 1st place at [Hurricane Vintage](/results/2024-08-30)
+8. Chase Hoppe - 1st place at [RTS34](/results/2024-09-28)
 
 # Invites
 
