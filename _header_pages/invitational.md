@@ -30,6 +30,10 @@ Stones Season 6 champion.
 6. Brian Tweedy - 1st place in the [School's Out middle School League](/results/2024-04-15)
 7. Dan Ersch - 1st place at [Hurricane Vintage](/results/2024-08-30)
 8. Chase Hoppe - 1st place at [RTS34](/results/2024-09-28)
+9. Rob Wilson - 1st place at [RTS35](/results/2024-11-02)
+9. Ian Files - 2nd place at [RTS35](/results/2024-11-02)
+9. Ty Thomason - 1st place in the [Fall Semester Middle School League](/results/2024-09-20)
+9. ??? Special guest ???
 
 # Invites
 
