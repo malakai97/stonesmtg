@@ -33,7 +33,8 @@ Stones Season 6 champion.
 9. Rob Wilson - 1st place at [RTS35](/results/2024-11-02)
 9. Ian Files - 2nd place at [RTS35](/results/2024-11-02)
 9. Ty Thomason - 1st place in the [Fall Semester Middle School League](/results/2024-09-20)
-9. ??? Special guest ???
+9. Rob Connolly - Winner of a lottery of players who had at least one near-miss in the
+   season and who could attend on short notice.
 
 # Invites
 
