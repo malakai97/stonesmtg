@@ -164,14 +164,17 @@ Round 5: Patrick Vincent – Landstill
     slowed him down, so he had to use his one untap every turn on making
     squirrels, not casting spells. I also stuck 2 Rancors to threats, which
     thanks to layering still grants trample under Humility, so I could get
-    damage in over the Squirrels.  •	Game 3: I mulled to 5, keeping Lion,
+    damage in over the Squirrels.
+*	Game 3: I mulled to 5, keeping Lion,
     Rancor, and Simoon. I was able to Simoon his Enchantress and then drew a
     timely Wane for his Solitary, so I got across the line without him going
-    off.  •	Vibe Check: I had all the tools to beat Enchantress, but it still
+    off.
+*	Vibe Check: I had all the tools to beat Enchantress, but it still
     felt like with other draws I could have been completely steamrolled, so
     winning the match felt great. I was also about to leave for spring break in
-    Paris, adding to the good energy.  •	Match Record: 2-1 •	League Record:
-    5-1
+    Paris, adding to the good energy.
+*	Match Record: 2-1
+*	League Record: 5-1
 
 **Interim: Top 8 began playing out while I was in Paris. Lorien and I were
 paired up again for the quarterfinals, which I felt OK about – I knew I could
