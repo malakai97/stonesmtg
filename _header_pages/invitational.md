@@ -9,7 +9,7 @@ Romancing the Stones tournament series are divided into seasons. Each season las
 a year, and ends with the Romancing the Stones Invitational for that season. The winner
 becomes the Romancing the Stones Season Champion, and earns a year of bragging rights.
 
-# Event Info for the Season 6 Invitational
+# Event Info for the Season 7 Invitational
 
 * Date: December-ish
 * Location: Austin, TX
@@ -20,28 +20,17 @@ becomes the Romancing the Stones Season Champion, and earns a year of bragging r
 # Roster
 
 The following players have secured their chance to battle to become the Romancing the
-Stones Season 6 champion.
+Stones Season 7 champion.
 
-1. Stu Ziarnik - Season 5 / 2023 Champion
-2. Liz Garcia - Top4 at [Festival of Friendship Vintage](/results/2024-01-13)
-3. Galen Lamei - 2nd place in the [Dance Party Middle School League](/results/2024-02-29)
-4. Ben Kendrick - 1st place at [RTS32](/results/2024-03-23)
-5. Paul Garrett - 1st place at [RTS33](/results/2024-05-04)
-6. Brian Tweedy - 1st place in the [School's Out middle School League](/results/2024-04-15)
-7. Dan Ersch - 1st place at [Hurricane Vintage](/results/2024-08-30)
-8. Chase Hoppe - 1st place at [RTS34](/results/2024-09-28)
-9. Rob Wilson - 1st place at [RTS35](/results/2024-11-02)
-9. Ian Files - 2nd place at [RTS35](/results/2024-11-02)
-9. Ty Thomason - 1st place in the [Fall Semester Middle School League](/results/2024-09-20)
-9. Rob Connolly - Winner of a lottery of players who had at least one near-miss in the
-   season and who could attend on short notice.
+1. Chase Hoppe - Season 6 / 2024 Champion
+2. Caleb Ray - 1st place at [Festival of Friendship Vintage](/results/2025-01-18)
 
 # Invites
 
 Invites to the players who will qualify for the Invitational are given out for:
 
 * 1 invite to last season's invitational champion
-* Winning a single-day or league event (other than the Festival of Friendship)
+* Winning a single-day or league event
 
 Players can never earn more than one invitation. Thus, if a player who is already
 invited places 1st at an event, the invitation for that event would go to the 2nd place
@@ -55,3 +44,4 @@ the invite.
 * 2021 Invitational Champion - Andrew Webb
 * [2022 Invitational Champion](/results/2022-12-03) - Bryan Hockey
 * [2023 Invitational Champion](/results/2023-12-02) - Stu Ziarnik
+* [2024 Invitational Champion](/results/2024-12-07) - Chase Hoppe
