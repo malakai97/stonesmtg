@@ -28,10 +28,13 @@ class MarkdownFile < ProjectFile
   def fixed_content
     content
       .lines
+      .map{|line| fixed_naked_assets(line)}
       .map{|line| add_cdn_url_to_assets(line)}
       .map{|line| fixed_pre_image_line(line)}
       .map{|line| fixed_image_line(line)}
       .map{|line| fixed_pdf_line(line)}
+      .map{|line| fixed_mixed_bracket_paren(line)}
+      .map{|line| add_date_to_images(line)}
       .map{|line| cleanup_double_parens(line)}
       .join("")
   end
@@ -75,6 +78,26 @@ class MarkdownFile < ProjectFile
     line
       .gsub("((", "(")
       .gsub("))", ")")
+  end
+
+  def fixed_mixed_bracket_paren(line)
+    regex = /\((.+)\)\[(.+)\]/
+    line.gsub(regex, '[\1](\2)')
+  end
+
+  def fixed_naked_assets(line)
+    regex = /^(assets\/.+)/
+    line.gsub(regex, '![](\1)')
+  end
+
+  def add_date_to_images(line)
+    regex = /([0-9]{4}-[0-9]{2}-[0-9]{2})-entry\.md/
+    matched = regex.match(File.basename(path))
+    if matched
+      line.gsub(/assets\/images\/(\D{4}.+)/, "assets/images/#{matched[1]}/" + '\1')
+    else
+      line
+    end
   end
 
 end
