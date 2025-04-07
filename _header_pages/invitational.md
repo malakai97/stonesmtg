@@ -24,6 +24,7 @@ Stones Season 7 champion.
 
 1. Chase Hoppe - Season 6 / 2024 Champion
 2. Caleb Ray - 1st place at [Festival of Friendship Vintage](/results/2025-01-18)
+3. Paul Garrett - 1st place at [RTS36](/results/2025-02-23)
 
 # Invites
 
