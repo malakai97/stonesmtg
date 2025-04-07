@@ -15,7 +15,7 @@ When we started running local MS monthlies a few years ago, I wanted to build
 some new decks so that I wouldn’t be Sligh Player Number 4 and turn people off
 of the format. That started with Counter Rebels, and then Zoo. Ty Thomason is
 one of my favorite deck designers and
-[played Zoo in a league a few years ago](Ty's MtG blog!: Naya Zoo in Middle School),
+[played Zoo in a league a few years ago](https://tysmtgblog.blogspot.com/2022/12/naya-zoo-in-middle-school.html)
 so I modified his list off his
 suggestions and tried it out as a fun back-pocket deck.
 
