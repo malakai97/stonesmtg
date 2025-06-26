@@ -26,6 +26,8 @@ Stones Season 7 champion.
 2. Caleb Ray - 1st place at [Festival of Friendship Vintage](/results/2025-01-18)
 3. Paul Garrett - 1st place at [RTS36](/results/2025-02-23)
 4. Matt Perlman - 1st place in the [Dance Party Middle School League](/results/2025-01-31)
+5. Ryan Bartley - 1st place at [RTS37](/results/2025-04-19)
+6. Ben Kendrick - 2nd place at [RTS38](/results/2025-06-21)
 
 # Invites
 
