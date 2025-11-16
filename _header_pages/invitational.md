@@ -28,6 +28,10 @@ Stones Season 7 champion.
 4. Matt Perlman - 1st place in the [Dance Party Middle School League](/results/2025-01-31)
 5. Ryan Bartley - 1st place at [RTS37](/results/2025-04-19)
 6. Ben Kendrick - 2nd place at [RTS38](/results/2025-06-21)
+7. David Gleicher - School's Out
+8. Gabe Hoppe - Houston Hurricane Weekend
+9. Brian Espinoza - Fall Semester
+10. TBD - RTS39
 
 # Invites
 
