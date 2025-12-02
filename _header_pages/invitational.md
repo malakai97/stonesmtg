@@ -11,11 +11,11 @@ becomes the Romancing the Stones Season Champion, and earns a year of bragging r
 
 # Event Info for the Season 7 Invitational
 
-* Date: December-ish
-* Location: Austin, TX
-* Format: Some mix of vintage and middle school. TBD.
-* Decklists: Competitors submit their decks in advance, and we play with open lists.
-  Stu will announce when these are due.
+* Date: Saturday, December 6th
+* Location: Tweedy's Bar in Austin, TX
+* Format: 3 rounds of vintage, 3 rounds of middle school, cut to top 4 which will be vintage.
+* Decklists: Competitors submit their decks by 11:59pm Wednesday, December 3rd.
+  We play with open lists.
 
 # Roster
 
@@ -25,13 +25,13 @@ Stones Season 7 champion.
 1. Chase Hoppe - Season 6 / 2024 Champion
 2. Caleb Ray - 1st place at [Festival of Friendship Vintage](/results/2025-01-18)
 3. Paul Garrett - 1st place at [RTS36](/results/2025-02-23)
-4. Matt Perlman - 1st place in the [Dance Party Middle School League](/results/2025-01-31)
+4. Andrew Webb - 3rd place in the [Dance Party Middle School League](/results/2025-01-31)
 5. Ryan Bartley - 1st place at [RTS37](/results/2025-04-19)
 6. Ben Kendrick - 2nd place at [RTS38](/results/2025-06-21)
 7. David Gleicher - School's Out
 8. Gabe Hoppe - Houston Hurricane Weekend
 9. Brian Espinoza - Fall Semester
-10. TBD - RTS39
+10. Kai Schafroth - 2nd place at RTS39
 
 # Invites
 
