@@ -22,15 +22,15 @@ The following players have secured their chance to battle to become the Romancin
 Stones Season 7 champion.
 
 1. Gabe Hoppe - Season 7 / 2025 Champion
-1. Alex Avance - Festival of Friendship (vintage portion)
-1. Rob Connolly - RTS 40
-1. Angel Kortyka - [Dance Party 2026](/results/2026-02-02)
-1. Paul Garrett - [RTS 41](/results/2026-04-11)
-1. Colin Logan - [RTS 42](/results/2026-06-27)
-1.
-1.
-1.
-1.
+2. Alex Avance - Festival of Friendship (vintage portion)
+3. Rob Connolly - RTS 40
+4. Angel Kortyka - [Dance Party 2026](/results/2026-02-02)
+5. Paul Garrett - [RTS 41](/results/2026-04-11)
+6. Colin Logan - [RTS 42](/results/2026-06-27)
+7. tbd
+8. tbd
+9. tbd
+10. tbd
 
 # Invites
 
